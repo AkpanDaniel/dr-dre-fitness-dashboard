@@ -1,0 +1,381 @@
+member_id,full_name,nationality,gender,date_of_birth,age,height_cm,weight_kg,address,emergency_contact,join_date,subscription_plan,plan_duration_months,amount_paid,payment_method,renewal_date,subscription_end_date,membership_status,trainer_type
+1001,Jeremy Pollard,Nigerian,Male,1976-11-11,49,178,69,"GRA, Ilorin",973-032-7115x2259,2025-08-16,Couple (1 Month),1,34000,POS,2025-09-15,2025-09-15,Active,Personal
+1002,Wesley Long,Nigerian,Male,1988-09-11,37,188,78,"GRA, Ilorin",924.319.2101x503,2025-03-07,3 Months,3,45000,Transfer,2025-06-05,2025-06-12,Active,Personal
+1003,Jordan Taylor,Nigerian,Male,1990-07-03,35,173,84,"GRA, Ilorin",+1-080-730-9382,2024-03-18,Couple (1 Month),1,34000,Transfer,2024-04-17,2024-04-17,Expired,General
+1004,Brian Baker,Nigerian,Male,2005-10-18,20,170,87,"GRA, Ilorin",001-644-460-6410,2024-08-15,1 Year,12,120000,Transfer,2025-08-10,2025-08-10,Active,General
+1005,Justin Miller,Lebanese,Male,2002-03-01,23,193,103,"GRA, Ilorin",022-386-1185x19440,2024-05-08,6 Months,6,75000,POS,2024-11-04,2024-11-04,Expired,General
+1006,Michael Lucas,Nigerian,Male,1994-05-25,31,177,114,"GRA, Ilorin",766-055-9183,2024-11-25,Couple (1 Month),1,34000,POS,2024-12-25,2024-12-18,Expired,General
+1007,Daniel Lee,Chinese,Male,1970-04-06,55,193,109,"GRA, Ilorin",3272064299,2025-07-27,3 Months,3,45000,Transfer,2025-10-25,2025-10-25,Active,None
+1008,Raymond Stein,Nigerian,Male,2005-11-18,20,186,105,"GRA, Ilorin",001-903-526-1675,2024-06-03,Couple (1 Month),1,34000,Transfer,2024-07-03,2024-06-26,Grace,Personal
+1009,Charles Stanton,Nigerian,Male,1989-02-25,36,167,58,"GRA, Ilorin",001-749-283-4294,2025-03-22,6 Months,6,75000,Transfer,2025-09-18,2025-10-02,Active,None
+1010,Samuel Brown,Nigerian,Male,1967-07-26,58,158,107,"GRA, Ilorin",(270)667-3692x84544,2024-05-28,Individual (1 Month),1,18000,POS,2024-06-27,2024-06-27,Grace,General
+1011,Zachary Becker,Chinese,Male,2001-07-22,24,156,98,"GRA, Ilorin",001-831-734-6834,2025-04-08,3 Months,3,45000,Transfer,2025-07-07,2025-07-07,Active,General
+1012,Jason Coffey,Nigerian,Male,1972-05-21,53,163,90,"GRA, Ilorin",+1-769-788-8237x20487,2025-09-12,Individual (2 Months),2,33000,Transfer,2025-11-11,2025-11-11,Active,General
+1013,Joanne Miller,Nigerian,Female,1995-11-23,30,155,108,"GRA, Ilorin",1916906102,2024-12-08,Individual (2 Months),2,33000,Transfer,2025-02-06,2025-02-20,Grace,General
+1014,Jonathon Peters,Nigerian,Male,1995-06-26,30,167,98,"GRA, Ilorin",593-760-3863x70380,2024-07-16,Couple (1 Month),1,34000,Transfer,2024-08-15,2024-08-15,Expired,None
+1015,Victoria White,Nigerian,Female,1969-06-09,56,163,102,"GRA, Ilorin",926.657.7233x271,2025-02-18,4 People (1 Month),1,58000,Transfer,2025-03-20,2025-04-03,Expired,General
+1016,Gregory Walsh,Nigerian,Male,2001-01-18,24,189,107,"GRA, Ilorin",+1-576-182-6487x1682,2025-02-18,Individual (1 Month),1,18000,Transfer,2025-03-20,2025-04-03,Grace,General
+1017,Carrie Bryant,Nigerian,Female,1965-01-23,60,194,95,"GRA, Ilorin",389-607-9700,2024-04-13,6 Months,6,75000,POS,2024-10-10,2024-10-24,Grace,General
+1018,Samuel Smith,Nigerian,Male,2000-07-31,25,174,63,"GRA, Ilorin",692-305-1363,2024-08-26,3 Months,3,45000,POS,2024-11-24,2024-11-24,Expired,None
+1019,Brent Cross,Nigerian,Male,1966-01-31,59,173,117,"GRA, Ilorin",001-056-719-6502x168,2024-09-13,6 Months,6,75000,Transfer,2025-03-12,2025-03-19,Grace,None
+1020,Rhonda Williams,Chinese,Female,1980-12-20,45,184,89,"GRA, Ilorin",+1-600-171-4438x29616,2025-01-12,Couple (1 Month),1,34000,POS,2025-02-11,2025-02-18,Grace,None
+1021,Anthony Williamson,Nigerian,Male,1967-10-31,58,188,95,"GRA, Ilorin",649.062.3529x7389,2024-06-26,1 Year,12,120000,Transfer,2025-06-21,2025-06-28,Active,None
+1022,Lisa Hughes,Nigerian,Female,1965-02-01,60,161,88,"GRA, Ilorin",930.743.7164,2024-07-07,Individual (1 Month),1,18000,POS,2024-08-06,2024-08-20,Expired,General
+1023,Michael Stewart,Nigerian,Male,1968-08-05,57,173,91,"GRA, Ilorin",782.755.2230x94907,2025-01-01,Couple (1 Month),1,34000,POS,2025-01-31,2025-02-14,Expired,Personal
+1024,Paul Campbell,Nigerian,Male,1966-05-06,59,176,89,"GRA, Ilorin",(848)009-5671x493,2025-11-18,Individual (1 Month),1,18000,Transfer,2025-12-18,2025-12-11,Active,General
+1025,Ethan Orr,Chinese,Male,1998-10-14,27,163,57,"GRA, Ilorin",001-157-286-0637x2148,2024-08-07,6 Months,6,75000,POS,2025-02-03,2025-02-10,Grace,None
+1026,Jeremy Smith,Nigerian,Male,1983-10-27,42,163,81,"GRA, Ilorin",9814399619,2024-02-11,Individual (1 Month),1,18000,Transfer,2024-03-12,2024-03-05,Grace,General
+1027,Robert Gonzalez,Nigerian,Male,1985-12-06,40,191,105,"GRA, Ilorin",+1-184-819-2736x649,2025-10-08,Individual (2 Months),2,33000,POS,2025-12-07,2025-11-30,Active,General
+1028,Peter Gonzales,Nigerian,Male,1973-03-30,52,181,58,"GRA, Ilorin",846-908-9354,2025-11-27,1 Year,12,120000,POS,2026-11-22,2026-11-22,Active,None
+1029,Derek Sharp,Nigerian,Male,2006-12-29,19,194,69,"GRA, Ilorin",(775)385-3068x4443,2024-01-30,6 Months,6,75000,Transfer,2024-07-28,2024-07-21,Expired,None
+1030,Christopher Beck,Nigerian,Male,1981-03-26,44,181,113,"GRA, Ilorin",811.588.3665,2024-11-20,Individual (2 Months),2,33000,Transfer,2025-01-19,2025-01-12,Grace,Personal
+1031,Katherine Oconnor,Chinese,Female,1991-09-02,34,191,99,"GRA, Ilorin",001-699-024-7729x7337,2024-01-04,Couple (1 Month),1,34000,POS,2024-02-03,2024-02-03,Grace,General
+1032,Darren Johnson,Nigerian,Male,1970-12-11,55,177,82,"GRA, Ilorin",814.471.9762x03171,2025-08-21,3 Months,3,45000,Transfer,2025-11-19,2025-11-19,Active,General
+1033,Michael Fritz,Lebanese,Male,2001-04-17,24,160,116,"GRA, Ilorin",349.158.3314x262,2024-06-02,6 Months,6,75000,POS,2024-11-29,2024-11-22,Expired,General
+1034,Angel Rose,Nigerian,Male,1974-08-21,51,162,57,"GRA, Ilorin",739.699.9984,2025-06-08,3 Months,3,45000,Transfer,2025-09-06,2025-09-13,Active,General
+1035,Gregory Nelson,Nigerian,Male,1972-02-02,53,158,116,"GRA, Ilorin",403-020-8000x57676,2025-05-20,4 People (1 Month),1,58000,POS,2025-06-19,2025-07-03,Active,General
+1036,Michael Patterson,Nigerian,Male,2003-10-25,22,193,78,"GRA, Ilorin",001-944-275-7981x27284,2025-05-11,Individual (2 Months),2,33000,Transfer,2025-07-10,2025-07-17,Active,None
+1037,Dr. Chad Perez,Nigerian,Male,1983-02-27,42,181,106,"GRA, Ilorin",256.657.6538x21340,2025-10-03,4 People (1 Month),1,58000,POS,2025-11-02,2025-11-09,Active,General
+1038,Crystal Ramirez,Nigerian,Female,1973-07-15,52,161,93,"GRA, Ilorin",(374)598-1704x55314,2025-11-02,Individual (2 Months),2,33000,Transfer,2026-01-01,2026-01-01,Active,General
+1039,Luke Glass,Nigerian,Male,2004-06-18,21,166,113,"GRA, Ilorin",(292)996-8854x288,2024-03-23,Individual (1 Month),1,18000,Transfer,2024-04-22,2024-04-22,Expired,Personal
+1040,Chad Poole,Nigerian,Male,1968-08-13,57,172,55,"GRA, Ilorin",(817)449-0830x802,2024-12-04,6 Months,6,75000,POS,2025-06-02,2025-06-02,Active,General
+1041,Dylan Jackson,Chinese,Male,1989-03-19,36,193,86,"GRA, Ilorin",+1-015-220-1825x576,2025-01-09,1 Year,12,120000,POS,2026-01-04,2026-01-04,Active,General
+1042,Ryan Gregory,Nigerian,Male,2002-02-15,23,160,110,"GRA, Ilorin",+1-729-448-9925x92720,2024-06-24,4 People (1 Month),1,58000,POS,2024-07-24,2024-07-24,Expired,General
+1043,Kelly Anderson,Nigerian,Female,1980-09-18,45,173,65,"GRA, Ilorin",+1-718-697-1286x070,2024-04-20,Individual (1 Month),1,18000,POS,2024-05-20,2024-05-27,Grace,None
+1044,Debbie Bentley,Nigerian,Female,2000-07-02,25,158,113,"GRA, Ilorin",5436635770,2025-11-25,Individual (1 Month),1,18000,POS,2025-12-25,2026-01-01,Active,General
+1045,Ian Rodriguez,Nigerian,Male,1990-04-13,35,169,113,"GRA, Ilorin",470-825-4732x044,2024-12-12,Couple (1 Month),1,34000,POS,2025-01-11,2025-01-18,Grace,General
+1046,Erin Allen,Nigerian,Female,1991-12-02,34,168,74,"GRA, Ilorin",(555)054-1629,2025-01-08,Couple (1 Month),1,34000,Transfer,2025-02-07,2025-02-21,Grace,Personal
+1047,Terry Jones,Nigerian,Male,1976-10-21,49,182,94,"GRA, Ilorin",(429)630-5615x638,2024-01-16,1 Year,12,120000,Transfer,2025-01-10,2025-01-17,Expired,General
+1048,Nicole Lamb,Nigerian,Female,1996-03-28,29,150,65,"GRA, Ilorin",001-003-280-4193x9010,2025-09-07,1 Year,12,120000,Transfer,2026-09-02,2026-09-09,Active,General
+1049,Erik Stanley,Lebanese,Male,1965-03-20,60,172,85,"GRA, Ilorin",(193)741-5040x0075,2024-08-20,1 Year,12,120000,POS,2025-08-15,2025-08-15,Active,None
+1050,Nicholas Gomez,Nigerian,Male,1984-02-07,41,165,114,"GRA, Ilorin",4683682144,2025-10-20,1 Year,12,120000,Transfer,2026-10-15,2026-10-22,Active,General
+1051,Connie Torres,Nigerian,Female,1997-08-27,28,161,91,"GRA, Ilorin",+1-211-402-9561x513,2024-07-18,4 People (1 Month),1,58000,Transfer,2024-08-17,2024-08-31,Expired,None
+1052,Joseph Coffey,Nigerian,Male,1997-07-04,28,190,73,"GRA, Ilorin",755.307.3413x09224,2024-05-12,3 Months,3,45000,Transfer,2024-08-10,2024-08-03,Expired,Personal
+1053,Andrea Kelly,Nigerian,Female,1988-05-01,37,173,108,"GRA, Ilorin",158-531-9804,2025-10-13,Couple (1 Month),1,34000,POS,2025-11-12,2025-11-05,Active,None
+1054,John Sanford,Nigerian,Male,1967-11-24,58,160,90,"GRA, Ilorin",001-105-829-7751x4620,2025-02-23,4 People (1 Month),1,58000,Transfer,2025-03-25,2025-03-18,Expired,None
+1055,Daniel Villa,Nigerian,Male,1978-02-11,47,184,79,"GRA, Ilorin",148.655.3681,2024-06-01,Couple (1 Month),1,34000,Transfer,2024-07-01,2024-06-24,Grace,General
+1056,Kenneth Brown,Nigerian,Male,1984-12-28,41,167,108,"GRA, Ilorin",(993)782-0928x34875,2025-01-31,Individual (1 Month),1,18000,Transfer,2025-03-02,2025-03-02,Expired,General
+1057,Jo Carroll,Nigerian,Female,1998-05-29,27,185,87,"GRA, Ilorin",+1-734-692-4439,2024-07-28,Couple (1 Month),1,34000,Transfer,2024-08-27,2024-09-10,Expired,General
+1058,John Vega,Nigerian,Male,1990-01-05,35,169,62,"GRA, Ilorin",426-540-8653,2025-07-22,6 Months,6,75000,Transfer,2026-01-18,2026-01-11,Active,None
+1059,Elijah Campos,Nigerian,Male,1980-01-14,45,182,102,"GRA, Ilorin",686-922-3467x9226,2025-06-23,6 Months,6,75000,Transfer,2025-12-20,2026-01-03,Active,General
+1060,Christopher Wallace,Nigerian,Male,1966-08-07,59,171,84,"GRA, Ilorin",(607)355-5452x83544,2025-06-27,4 People (1 Month),1,58000,POS,2025-07-27,2025-07-27,Active,None
+1061,Robert Hall,Nigerian,Male,2002-05-27,23,157,81,"GRA, Ilorin",001-178-113-9777x498,2025-01-08,1 Year,12,120000,POS,2026-01-03,2026-01-03,Active,General
+1062,Gary Thomas,Chinese,Male,1991-11-18,34,182,82,"GRA, Ilorin",764.228.9786x3067,2024-02-20,4 People (1 Month),1,58000,Transfer,2024-03-21,2024-03-21,Expired,Personal
+1063,Tina Carr,Nigerian,Female,1991-02-01,34,168,58,"GRA, Ilorin",724.214.2017,2024-10-10,6 Months,6,75000,Transfer,2025-04-08,2025-04-01,Grace,General
+1064,Jason Bryan,Nigerian,Male,1993-06-03,32,166,98,"GRA, Ilorin",+1-298-397-0731x35106,2024-04-27,4 People (1 Month),1,58000,Transfer,2024-05-27,2024-05-20,Expired,None
+1065,Michelle Ayers,Nigerian,Female,1975-03-03,50,155,91,"GRA, Ilorin",(112)681-6542x4240,2024-07-01,1 Year,12,120000,Transfer,2025-06-26,2025-06-19,Active,None
+1066,Joseph Perez,Nigerian,Male,1981-05-16,44,180,114,"GRA, Ilorin",+1-341-251-2567x4749,2024-05-27,3 Months,3,45000,Transfer,2024-08-25,2024-08-18,Grace,None
+1067,Kurt Cunningham,Nigerian,Male,1972-12-07,53,170,86,"GRA, Ilorin",+1-436-038-1288,2024-01-28,3 Months,3,45000,POS,2024-04-27,2024-05-04,Expired,None
+1068,Christian Frazier,Nigerian,Male,1970-09-12,55,167,79,"GRA, Ilorin",+1-993-870-8552x5269,2024-12-05,Individual (2 Months),2,33000,Transfer,2025-02-03,2025-02-03,Grace,General
+1069,Deborah Torres DDS,Nigerian,Female,1976-03-26,49,152,100,"GRA, Ilorin",(372)996-0571x80714,2024-09-26,Individual (2 Months),2,33000,POS,2024-11-25,2024-11-18,Expired,General
+1070,Bobby Richards,Nigerian,Male,1971-06-02,54,171,77,"GRA, Ilorin",519-538-7933x82173,2024-09-24,1 Year,12,120000,POS,2025-09-19,2025-09-26,Active,General
+1071,Matthew Esparza,Nigerian,Male,2001-08-01,24,151,71,"GRA, Ilorin",007.346.7910x94495,2025-10-11,1 Year,12,120000,Transfer,2026-10-06,2026-10-13,Active,None
+1072,Gregory French MD,Nigerian,Male,1984-02-01,41,188,96,"GRA, Ilorin",001-632-132-6312,2024-01-30,Individual (2 Months),2,33000,Transfer,2024-03-30,2024-04-06,Expired,None
+1073,Stephanie Rios,Nigerian,Female,1970-05-06,55,174,78,"GRA, Ilorin",6987444310,2024-09-14,Individual (1 Month),1,18000,POS,2024-10-14,2024-10-28,Grace,None
+1074,Sergio Richardson,Nigerian,Male,2003-01-02,22,185,99,"GRA, Ilorin",6302689635,2024-11-13,Couple (1 Month),1,34000,Transfer,2024-12-13,2024-12-27,Expired,General
+1075,Eddie Young,Nigerian,Male,1995-07-16,30,165,68,"GRA, Ilorin",(854)052-7148x15007,2024-08-04,6 Months,6,75000,POS,2025-01-31,2025-02-14,Grace,None
+1076,Michael Johnson,Nigerian,Male,1978-01-20,47,177,86,"GRA, Ilorin",001-549-892-5749,2025-07-23,1 Year,12,120000,POS,2026-07-18,2026-07-18,Active,General
+1077,William Gill,Nigerian,Male,1974-07-11,51,174,112,"GRA, Ilorin",960-223-4411,2025-08-14,Individual (2 Months),2,33000,POS,2025-10-13,2025-10-13,Active,General
+1078,Corey Combs,Nigerian,Male,1997-07-01,28,171,103,"GRA, Ilorin",467-184-9756,2025-10-20,6 Months,6,75000,Transfer,2026-04-18,2026-05-02,Active,General
+1079,Megan Garrison,Nigerian,Female,1968-07-22,57,192,114,"GRA, Ilorin",(006)408-1580x24731,2024-03-12,1 Year,12,120000,Transfer,2025-03-07,2025-03-14,Grace,General
+1080,Ashley Taylor,Lebanese,Female,1993-04-06,32,193,59,"GRA, Ilorin",(216)601-0653,2024-04-19,Individual (1 Month),1,18000,POS,2024-05-19,2024-06-02,Expired,General
+1081,Melissa Mills,Nigerian,Female,1987-07-16,38,181,101,"GRA, Ilorin",+1-203-783-1972x2060,2025-01-16,3 Months,3,45000,Transfer,2025-04-16,2025-04-16,Expired,Personal
+1082,Benjamin Owens,Nigerian,Male,1972-10-13,53,165,67,"GRA, Ilorin",7982583706,2025-07-26,1 Year,12,120000,Transfer,2026-07-21,2026-07-28,Active,None
+1083,Holly Vazquez,Lebanese,Female,1992-05-04,33,168,71,"GRA, Ilorin",001-978-175-4391x65857,2025-09-23,Individual (2 Months),2,33000,Transfer,2025-11-22,2025-11-29,Active,General
+1084,Mark Lara,Nigerian,Male,2000-01-17,25,175,116,"GRA, Ilorin",+1-087-303-0223x130,2024-09-11,6 Months,6,75000,Transfer,2025-03-10,2025-03-24,Grace,None
+1085,Connor Andersen,Nigerian,Male,1978-05-17,47,150,112,"GRA, Ilorin",722.484.9971x6706,2025-09-18,1 Year,12,120000,Transfer,2026-09-13,2026-09-06,Active,None
+1086,Alejandro Brewer,Chinese,Male,1965-06-19,60,181,102,"GRA, Ilorin",001-452-314-2401x87691,2025-10-25,1 Year,12,120000,Transfer,2026-10-20,2026-11-03,Active,General
+1087,Lisa Skinner,Chinese,Female,1981-01-25,44,150,70,"GRA, Ilorin",183-558-3848,2025-01-28,Couple (1 Month),1,34000,Transfer,2025-02-27,2025-03-13,Expired,General
+1088,Ronald Powell,Nigerian,Male,2006-12-14,19,154,76,"GRA, Ilorin",422-393-2727x623,2025-11-22,Individual (2 Months),2,33000,Transfer,2026-01-21,2026-01-14,Active,Personal
+1089,Steve Whitehead,Lebanese,Male,1978-02-28,47,175,70,"GRA, Ilorin",240-275-3266,2025-01-20,1 Year,12,120000,Transfer,2026-01-15,2026-01-15,Active,General
+1090,Joe Lee,Nigerian,Male,2006-11-22,19,178,101,"GRA, Ilorin",+1-980-905-5127x7028,2025-09-06,Individual (2 Months),2,33000,POS,2025-11-05,2025-11-05,Active,General
+1091,Michelle Montgomery,Nigerian,Female,2006-03-04,19,154,70,"GRA, Ilorin",(949)538-6472x3986,2024-03-10,Individual (2 Months),2,33000,Transfer,2024-05-09,2024-05-16,Grace,General
+1092,James Hill,Nigerian,Male,1987-04-07,38,188,87,"GRA, Ilorin",001-884-197-2551x699,2025-10-29,3 Months,3,45000,Transfer,2026-01-27,2026-02-10,Active,General
+1093,Jonathan Ross,Lebanese,Male,1994-04-09,31,159,88,"GRA, Ilorin",092-028-1259x469,2025-11-08,6 Months,6,75000,Transfer,2026-05-07,2026-05-14,Active,General
+1094,Wyatt Ellison,Nigerian,Male,1969-01-01,56,168,112,"GRA, Ilorin",870-836-1140x50844,2024-07-26,3 Months,3,45000,Transfer,2024-10-24,2024-10-17,Expired,General
+1095,Charles Tanner,Nigerian,Male,1968-10-23,57,194,58,"GRA, Ilorin",4183722269,2025-07-14,4 People (1 Month),1,58000,Transfer,2025-08-13,2025-08-20,Active,Personal
+1096,Michele Jones,Lebanese,Female,1971-09-23,54,151,86,"GRA, Ilorin",(535)067-7542x2437,2024-01-01,6 Months,6,75000,POS,2024-06-29,2024-07-13,Grace,None
+1097,Marco Baker,Nigerian,Male,1973-10-02,52,184,87,"GRA, Ilorin",+1-083-915-3442x512,2025-07-26,4 People (1 Month),1,58000,Transfer,2025-08-25,2025-09-01,Active,General
+1098,Jeff Reyes,Nigerian,Male,1985-12-02,40,186,66,"GRA, Ilorin",(897)374-8734x5181,2024-08-24,4 People (1 Month),1,58000,POS,2024-09-23,2024-09-23,Grace,General
+1099,Janice Huynh,Nigerian,Female,1970-02-16,55,159,97,"GRA, Ilorin",5453840314,2024-09-18,6 Months,6,75000,Transfer,2025-03-17,2025-03-24,Grace,General
+1100,Jason Thomas,Nigerian,Male,1977-07-16,48,180,100,"GRA, Ilorin",491-901-4359x474,2024-01-20,4 People (1 Month),1,58000,POS,2024-02-19,2024-02-26,Expired,General
+1101,Brian Williams,Nigerian,Male,1994-03-28,31,184,62,"GRA, Ilorin",3543344187,2025-08-22,6 Months,6,75000,Transfer,2026-02-18,2026-02-11,Active,General
+1102,Michael Wilkins,Chinese,Male,1983-12-18,42,183,61,"GRA, Ilorin",001-932-553-4456x638,2025-06-26,4 People (1 Month),1,58000,Transfer,2025-07-26,2025-07-26,Active,General
+1103,David Andrews,Nigerian,Male,1981-05-07,44,194,83,"GRA, Ilorin",+1-937-447-9863,2024-07-14,3 Months,3,45000,Transfer,2024-10-12,2024-10-05,Grace,General
+1104,Isaac Jones,Nigerian,Male,1965-11-20,60,185,64,"GRA, Ilorin",(071)737-2400x572,2024-12-24,3 Months,3,45000,Transfer,2025-03-24,2025-03-31,Grace,General
+1105,Derek Sparks,Chinese,Male,2003-01-27,22,184,103,"GRA, Ilorin",189.467.5961x7477,2024-08-14,Individual (2 Months),2,33000,Transfer,2024-10-13,2024-10-06,Grace,Personal
+1106,Caleb Brown,Nigerian,Male,2004-12-22,21,188,78,"GRA, Ilorin",(574)763-0291x15970,2024-08-19,Individual (1 Month),1,18000,Transfer,2024-09-18,2024-09-18,Grace,None
+1107,David Barton,Lebanese,Male,1971-10-04,54,161,109,"GRA, Ilorin",+1-810-546-4007x53119,2025-05-12,3 Months,3,45000,Transfer,2025-08-10,2025-08-10,Active,None
+1108,Leslie Thompson,Nigerian,Female,1983-07-02,42,190,84,"GRA, Ilorin",(982)514-1043x68667,2024-01-29,1 Year,12,120000,Transfer,2025-01-23,2025-01-30,Grace,None
+1109,Anthony Moore,Nigerian,Male,1989-05-11,36,174,67,"GRA, Ilorin",001-675-462-1074x41304,2024-03-31,Couple (1 Month),1,34000,Transfer,2024-04-30,2024-05-14,Grace,None
+1110,Andrew Johnson,Lebanese,Male,1972-10-24,53,161,115,"GRA, Ilorin",(938)278-2325,2024-09-25,Couple (1 Month),1,34000,Transfer,2024-10-25,2024-11-08,Grace,None
+1111,Kevin Hinton,Lebanese,Male,1976-11-24,49,156,82,"GRA, Ilorin",+1-856-300-1206x1627,2025-03-27,3 Months,3,45000,Transfer,2025-06-25,2025-06-18,Active,None
+1112,Pamela Chapman,Nigerian,Female,1981-12-25,44,168,70,"GRA, Ilorin",001-171-269-7079x356,2024-06-29,Individual (2 Months),2,33000,POS,2024-08-28,2024-09-04,Expired,General
+1113,Randy Ferguson,Nigerian,Male,1985-11-10,40,174,106,"GRA, Ilorin",480-911-8212x844,2025-07-18,Individual (1 Month),1,18000,POS,2025-08-17,2025-08-24,Active,Personal
+1114,Jennifer Oneal,Nigerian,Female,1990-08-13,35,172,70,"GRA, Ilorin",(072)430-7458x4764,2025-01-22,3 Months,3,45000,Transfer,2025-04-22,2025-04-15,Expired,None
+1115,William Ponce,Nigerian,Male,2006-01-15,19,191,112,"GRA, Ilorin",+1-160-500-8726x6249,2024-11-12,6 Months,6,75000,Transfer,2025-05-11,2025-05-04,Grace,General
+1116,Miguel Roberts,Chinese,Male,2005-06-01,20,154,89,"GRA, Ilorin",001-280-290-1750x591,2024-10-14,Individual (1 Month),1,18000,Transfer,2024-11-13,2024-11-20,Grace,None
+1117,Christopher Gardner,Nigerian,Male,1969-08-03,56,167,63,"GRA, Ilorin",460.659.3861x40890,2024-07-14,Couple (1 Month),1,34000,POS,2024-08-13,2024-08-13,Grace,None
+1118,Mr. Gerald Dodson PhD,Nigerian,Male,1976-09-27,49,187,61,"GRA, Ilorin",8711622642,2025-07-24,Couple (1 Month),1,34000,POS,2025-08-23,2025-09-06,Active,General
+1119,Andrew Hogan,Nigerian,Male,1972-06-07,53,158,104,"GRA, Ilorin",(096)780-5893x5412,2024-03-07,6 Months,6,75000,Transfer,2024-09-03,2024-09-17,Expired,None
+1120,James Fowler,Nigerian,Male,1988-11-19,37,178,91,"GRA, Ilorin",435-338-3316,2025-05-17,1 Year,12,120000,POS,2026-05-12,2026-05-12,Active,General
+1121,Robert Cohen,Nigerian,Male,1988-03-13,37,194,119,"GRA, Ilorin",(439)230-9122,2024-01-04,Individual (2 Months),2,33000,POS,2024-03-04,2024-03-04,Grace,None
+1122,Andrew Banks,Nigerian,Male,1996-05-01,29,156,99,"GRA, Ilorin",929.776.4804,2024-07-31,Individual (2 Months),2,33000,Transfer,2024-09-29,2024-10-06,Grace,None
+1123,Mr. David Macias,Chinese,Male,1972-02-25,53,180,73,"GRA, Ilorin",(450)283-1679x01764,2024-02-01,6 Months,6,75000,POS,2024-07-30,2024-08-06,Expired,None
+1124,Dustin Martin,Nigerian,Male,1974-12-26,51,176,73,"GRA, Ilorin",001-381-042-3064x2753,2024-02-15,1 Year,12,120000,POS,2025-02-09,2025-02-02,Expired,General
+1125,Cody Smith,Nigerian,Male,1974-12-02,51,162,112,"GRA, Ilorin",+1-610-693-6791x94499,2025-03-19,Individual (2 Months),2,33000,Transfer,2025-05-18,2025-05-11,Expired,Personal
+1126,Brittney Humphrey,Nigerian,Female,1989-04-13,36,190,93,"GRA, Ilorin",001-719-659-8363x1482,2025-09-14,4 People (1 Month),1,58000,Transfer,2025-10-14,2025-10-14,Active,Personal
+1127,Richard Black,Chinese,Male,1983-08-02,42,174,110,"GRA, Ilorin",(182)910-1928x320,2024-10-24,4 People (1 Month),1,58000,Transfer,2024-11-23,2024-11-16,Grace,General
+1128,Dominic Moran,Nigerian,Male,1984-12-04,41,193,99,"GRA, Ilorin",001-670-455-2704x94798,2025-04-26,Individual (2 Months),2,33000,Transfer,2025-06-25,2025-06-18,Active,None
+1129,David Thomas,Nigerian,Male,1999-09-06,26,170,90,"GRA, Ilorin",483-553-0795,2025-09-17,6 Months,6,75000,Transfer,2026-03-16,2026-03-09,Active,General
+1130,Brooke Walker DDS,Chinese,Female,1994-11-07,31,167,101,"GRA, Ilorin",725.110.4594x606,2024-01-10,4 People (1 Month),1,58000,POS,2024-02-09,2024-02-16,Grace,Personal
+1131,James Harris,Nigerian,Male,1976-08-13,49,180,55,"GRA, Ilorin",+1-812-450-1881x18765,2025-08-10,Individual (2 Months),2,33000,Transfer,2025-10-09,2025-10-02,Active,Personal
+1132,Adam Adams,Nigerian,Male,2007-08-02,18,165,111,"GRA, Ilorin",218-605-5222x2602,2025-07-29,3 Months,3,45000,POS,2025-10-27,2025-10-20,Active,None
+1133,Emily Hernandez,Nigerian,Female,1993-10-29,32,165,78,"GRA, Ilorin",001-142-875-0740x73778,2024-06-25,3 Months,3,45000,Transfer,2024-09-23,2024-09-30,Grace,Personal
+1134,Brandon White,Nigerian,Male,1989-04-06,36,177,90,"GRA, Ilorin",036-117-6827x2600,2025-05-12,Individual (2 Months),2,33000,Transfer,2025-07-11,2025-07-11,Active,General
+1135,Richard Martin,Lebanese,Male,1966-06-14,59,177,95,"GRA, Ilorin",018-392-6721x610,2024-05-01,6 Months,6,75000,Transfer,2024-10-28,2024-10-21,Expired,General
+1136,Jon Molina,Nigerian,Male,2002-07-12,23,166,87,"GRA, Ilorin",204-150-3128x27461,2024-11-24,1 Year,12,120000,Transfer,2025-11-19,2025-11-12,Active,General
+1137,Andrew Foster,Nigerian,Male,1965-10-05,60,178,67,"GRA, Ilorin",426-924-7597x3022,2025-01-07,Individual (2 Months),2,33000,Transfer,2025-03-08,2025-03-01,Grace,None
+1138,Tammy Watts,Nigerian,Female,1970-09-15,55,167,101,"GRA, Ilorin",001-587-181-9033x945,2025-07-24,4 People (1 Month),1,58000,POS,2025-08-23,2025-08-16,Active,None
+1139,Timothy Martin,Nigerian,Male,1996-08-22,29,179,59,"GRA, Ilorin",(229)618-1223x9411,2024-01-22,Individual (2 Months),2,33000,Transfer,2024-03-22,2024-03-22,Grace,General
+1140,Jorge Smith,Chinese,Male,2002-08-18,23,150,72,"GRA, Ilorin",(187)524-3109,2025-07-01,3 Months,3,45000,Transfer,2025-09-29,2025-10-13,Active,None
+1141,Erik Reilly,Nigerian,Male,1997-02-18,28,170,80,"GRA, Ilorin",001-455-885-9123,2025-03-21,4 People (1 Month),1,58000,Transfer,2025-04-20,2025-04-13,Expired,General
+1142,Sherry Tran,Nigerian,Female,1979-07-13,46,176,103,"GRA, Ilorin",001-859-879-7813x224,2024-09-21,3 Months,3,45000,Transfer,2024-12-20,2024-12-13,Grace,None
+1143,Mark Gibson,Nigerian,Male,1994-05-11,31,184,55,"GRA, Ilorin",001-040-015-6701x9444,2024-09-19,3 Months,3,45000,Transfer,2024-12-18,2024-12-11,Expired,General
+1144,Michael Spears,Nigerian,Male,1981-07-16,44,177,59,"GRA, Ilorin",708.021.2707x6457,2024-11-13,Individual (2 Months),2,33000,POS,2025-01-12,2025-01-12,Grace,None
+1145,Joseph Guzman,Nigerian,Male,1970-01-05,55,186,107,"GRA, Ilorin",(400)695-7806,2024-09-18,Couple (1 Month),1,34000,Transfer,2024-10-18,2024-10-18,Expired,None
+1146,Caroline Cherry,Nigerian,Female,1987-02-10,38,166,55,"GRA, Ilorin",(994)750-9384x5861,2025-05-04,6 Months,6,75000,Transfer,2025-10-31,2025-10-24,Active,None
+1147,John Bryant,Nigerian,Male,1989-12-17,36,150,86,"GRA, Ilorin",(312)139-5849x50405,2024-05-05,3 Months,3,45000,Transfer,2024-08-03,2024-07-27,Grace,General
+1148,Steven Smith,Nigerian,Male,2004-12-16,21,188,80,"GRA, Ilorin",(978)849-7354,2024-09-01,3 Months,3,45000,POS,2024-11-30,2024-12-14,Grace,General
+1149,William Castro,Nigerian,Male,1994-08-27,31,152,104,"GRA, Ilorin",473-013-5830,2025-05-09,4 People (1 Month),1,58000,Transfer,2025-06-08,2025-06-01,Active,None
+1150,James Sellers,Nigerian,Male,1980-06-22,45,154,111,"GRA, Ilorin",(769)883-3969x8444,2024-11-16,Individual (1 Month),1,18000,Transfer,2024-12-16,2024-12-16,Expired,General
+1151,Evan Roberts,Chinese,Male,1993-12-30,32,172,68,"GRA, Ilorin",005.414.5399x93507,2025-11-29,Couple (1 Month),1,34000,POS,2025-12-29,2025-12-29,Active,Personal
+1152,Jason Ibarra,Nigerian,Male,1977-09-06,48,187,118,"GRA, Ilorin",748.968.9386,2024-05-30,1 Year,12,120000,Transfer,2025-05-25,2025-05-25,Expired,General
+1153,Zachary Dunn MD,Nigerian,Male,1974-08-14,51,183,84,"GRA, Ilorin",551.278.9494,2025-06-29,Individual (2 Months),2,33000,Transfer,2025-08-28,2025-09-04,Active,General
+1154,Dave Lee,Nigerian,Male,2007-06-13,18,183,106,"GRA, Ilorin",(972)219-3300x4660,2025-08-04,Individual (1 Month),1,18000,Transfer,2025-09-03,2025-09-03,Active,General
+1155,Jeffrey Gonzalez,Nigerian,Male,1995-10-02,30,164,84,"GRA, Ilorin",+1-300-839-3769x8524,2024-04-18,Individual (1 Month),1,18000,POS,2024-05-18,2024-06-01,Grace,Personal
+1156,Sara Harris,Chinese,Female,2000-02-13,25,154,83,"GRA, Ilorin",677-487-7486,2025-07-07,Individual (2 Months),2,33000,Transfer,2025-09-05,2025-09-05,Active,General
+1157,Ashley Graham,Nigerian,Female,1979-06-09,46,159,71,"GRA, Ilorin",287.397.4033x363,2024-08-11,3 Months,3,45000,POS,2024-11-09,2024-11-09,Expired,General
+1158,Zachary Camacho,Lebanese,Male,1987-04-18,38,183,60,"GRA, Ilorin",268.366.6211x0574,2024-09-20,Couple (1 Month),1,34000,Transfer,2024-10-20,2024-10-13,Grace,General
+1159,Kevin Ross,Nigerian,Male,2000-05-30,25,192,97,"GRA, Ilorin",871-073-1477x18584,2025-04-02,1 Year,12,120000,POS,2026-03-28,2026-04-04,Active,General
+1160,Nathaniel Green,Nigerian,Male,2003-04-07,22,172,109,"GRA, Ilorin",001-558-749-5439x6290,2025-02-08,4 People (1 Month),1,58000,Transfer,2025-03-10,2025-03-24,Expired,General
+1161,Joseph Ibarra,Nigerian,Male,2007-06-14,18,165,62,"GRA, Ilorin",186.530.7542x24042,2024-11-30,3 Months,3,45000,POS,2025-02-28,2025-02-21,Grace,General
+1162,Dean English,Nigerian,Male,2000-06-23,25,174,81,"GRA, Ilorin",771.129.3052,2024-09-01,Couple (1 Month),1,34000,POS,2024-10-01,2024-10-15,Expired,Personal
+1163,Benjamin Galvan,Nigerian,Male,1966-09-08,59,168,75,"GRA, Ilorin",5597184082,2025-11-29,1 Year,12,120000,POS,2026-11-24,2026-11-17,Active,General
+1164,Christopher Patterson,Nigerian,Male,1966-12-10,59,171,75,"GRA, Ilorin",001-347-443-4889x072,2025-04-03,4 People (1 Month),1,58000,Transfer,2025-05-03,2025-04-26,Expired,General
+1165,Brett Palmer,Nigerian,Male,2003-05-01,22,161,100,"GRA, Ilorin",+1-332-161-1183x730,2024-10-09,Couple (1 Month),1,34000,Transfer,2024-11-08,2024-11-22,Grace,General
+1166,Bryan Hicks,Nigerian,Male,1985-01-04,40,194,81,"GRA, Ilorin",+1-469-980-9807,2024-01-04,4 People (1 Month),1,58000,Transfer,2024-02-03,2024-02-17,Grace,General
+1167,Kelly Hartman,Nigerian,Female,2003-09-14,22,171,110,"GRA, Ilorin",4279670916,2025-06-29,3 Months,3,45000,POS,2025-09-27,2025-09-20,Active,None
+1168,Susan Smith,Nigerian,Female,1985-01-12,40,166,80,"GRA, Ilorin",5378893917,2024-02-15,Individual (1 Month),1,18000,POS,2024-03-16,2024-03-09,Grace,None
+1169,Anthony Murphy,Nigerian,Male,2003-11-01,22,184,106,"GRA, Ilorin",+1-859-044-9390,2025-11-26,4 People (1 Month),1,58000,POS,2025-12-26,2026-01-09,Active,General
+1170,Bryce Gregory,Nigerian,Male,1990-02-07,35,171,68,"GRA, Ilorin",519.429.6476x22151,2025-06-20,6 Months,6,75000,Transfer,2025-12-17,2025-12-31,Active,Personal
+1171,Charles Hickman,Nigerian,Male,1975-02-07,50,173,56,"GRA, Ilorin",138.575.1626x275,2025-08-24,3 Months,3,45000,Transfer,2025-11-22,2025-12-06,Active,Personal
+1172,Joshua Mccullough,Nigerian,Male,1988-09-03,37,156,57,"GRA, Ilorin",(875)193-0416x7573,2025-07-26,Individual (2 Months),2,33000,Transfer,2025-09-24,2025-10-01,Active,None
+1173,John Rhodes,Nigerian,Male,2000-09-20,25,194,72,"GRA, Ilorin",204.318.4309,2025-06-23,Couple (1 Month),1,34000,POS,2025-07-23,2025-07-16,Active,General
+1174,Cody Ruiz,Nigerian,Male,1978-11-02,47,164,118,"GRA, Ilorin",980.332.7843x55101,2025-02-01,4 People (1 Month),1,58000,POS,2025-03-03,2025-03-10,Grace,General
+1175,Jeffrey Keller,Nigerian,Male,2007-11-05,18,159,93,"GRA, Ilorin",894-411-1279x49807,2024-07-05,Individual (1 Month),1,18000,Transfer,2024-08-04,2024-07-28,Expired,General
+1176,Joseph Galvan,Nigerian,Male,2007-01-27,18,175,98,"GRA, Ilorin",770-409-1386x74886,2024-10-11,6 Months,6,75000,POS,2025-04-09,2025-04-02,Expired,General
+1177,Donald Roberts,Nigerian,Male,1987-01-15,38,174,64,"GRA, Ilorin",001-683-951-9519x9581,2024-06-15,Individual (2 Months),2,33000,POS,2024-08-14,2024-08-28,Grace,None
+1178,Craig Rodriguez,Chinese,Male,1970-11-19,55,185,88,"GRA, Ilorin",001-726-875-2760x9415,2025-06-23,3 Months,3,45000,POS,2025-09-21,2025-09-14,Active,General
+1179,Miguel Davis,Nigerian,Male,1994-09-22,31,193,96,"GRA, Ilorin",049-432-1539x63047,2024-09-04,3 Months,3,45000,Transfer,2024-12-03,2024-12-17,Grace,General
+1180,Christopher Vega,Lebanese,Male,1966-06-13,59,175,118,"GRA, Ilorin",+1-458-951-0264,2024-04-27,3 Months,3,45000,Transfer,2024-07-26,2024-08-02,Expired,General
+1181,Garrett Conley,Chinese,Male,1998-11-09,27,194,87,"GRA, Ilorin",209.030.0667x765,2025-09-04,3 Months,3,45000,POS,2025-12-03,2025-12-03,Active,General
+1182,John Klein,Nigerian,Male,1966-07-18,59,155,58,"GRA, Ilorin",0968075668,2024-08-25,4 People (1 Month),1,58000,POS,2024-09-24,2024-10-01,Expired,None
+1183,Casey Hogan,Nigerian,Male,1987-08-24,38,179,78,"GRA, Ilorin",807.744.7742x350,2024-11-26,Individual (1 Month),1,18000,Transfer,2024-12-26,2025-01-09,Grace,None
+1184,Michael Evans,Nigerian,Male,1969-03-13,56,180,94,"GRA, Ilorin",877-620-1874,2025-03-22,3 Months,3,45000,Transfer,2025-06-20,2025-06-27,Active,Personal
+1185,Brianna Rodriguez,Lebanese,Female,1968-03-29,57,155,58,"GRA, Ilorin",001-167-314-8034,2025-07-17,3 Months,3,45000,POS,2025-10-15,2025-10-15,Active,General
+1186,Emily Brown,Nigerian,Female,1967-08-30,58,179,105,"GRA, Ilorin",001-995-826-6592,2024-03-12,6 Months,6,75000,POS,2024-09-08,2024-09-22,Expired,None
+1187,Suzanne Richardson,Nigerian,Female,1973-09-26,52,160,62,"GRA, Ilorin",(752)509-4082x2618,2025-01-17,3 Months,3,45000,Transfer,2025-04-17,2025-04-24,Grace,General
+1188,Kathleen Russo,Nigerian,Female,2000-10-08,25,154,80,"GRA, Ilorin",+1-708-904-4318x19411,2024-05-30,Individual (2 Months),2,33000,Transfer,2024-07-29,2024-08-12,Grace,General
+1189,Robert Brown,Nigerian,Male,2007-05-08,18,182,74,"GRA, Ilorin",090.574.9462x5173,2025-11-05,3 Months,3,45000,Transfer,2026-02-03,2026-02-10,Active,General
+1190,Carl Moreno,Nigerian,Male,1970-11-27,55,175,68,"GRA, Ilorin",160.803.2832x48138,2025-10-19,4 People (1 Month),1,58000,Transfer,2025-11-18,2025-11-11,Active,General
+1191,Michael Collins,Nigerian,Male,1997-09-25,28,160,57,"GRA, Ilorin",001-420-933-5418x43090,2024-05-22,Individual (1 Month),1,18000,POS,2024-06-21,2024-06-14,Expired,General
+1192,Martin Hernandez,Nigerian,Male,1978-02-28,47,159,59,"GRA, Ilorin",+1-931-792-6059x248,2025-09-11,Couple (1 Month),1,34000,Transfer,2025-10-11,2025-10-11,Active,General
+1193,Jamie Gilbert,Nigerian,Female,1967-11-04,58,162,94,"GRA, Ilorin",+1-900-790-3583x8445,2025-07-22,4 People (1 Month),1,58000,Transfer,2025-08-21,2025-09-04,Active,None
+1194,Todd Padilla,Chinese,Male,2002-03-26,23,186,71,"GRA, Ilorin",8782610530,2024-05-15,1 Year,12,120000,POS,2025-05-10,2025-05-03,Expired,General
+1195,Jose Woods,Nigerian,Male,2005-12-12,20,187,89,"GRA, Ilorin",(961)798-9791x3700,2024-03-16,Individual (1 Month),1,18000,POS,2024-04-15,2024-04-08,Grace,General
+1196,Dana Torres,Nigerian,Female,1969-11-12,56,193,104,"GRA, Ilorin",(491)980-6416,2025-07-09,Individual (1 Month),1,18000,POS,2025-08-08,2025-08-22,Active,General
+1197,Teresa Lin,Chinese,Female,1997-02-25,28,158,88,"GRA, Ilorin",5890469744,2025-01-17,1 Year,12,120000,Transfer,2026-01-12,2026-01-12,Active,General
+1198,Arthur Hall,Nigerian,Male,1977-10-10,48,189,118,"GRA, Ilorin",(786)867-9972,2024-12-19,Couple (1 Month),1,34000,Transfer,2025-01-18,2025-01-25,Grace,General
+1199,Amy Williams,Nigerian,Female,2004-03-07,21,157,65,"GRA, Ilorin",+1-973-843-4064,2024-09-10,6 Months,6,75000,Transfer,2025-03-09,2025-03-16,Expired,None
+1200,Christopher Smith,Nigerian,Male,1986-06-01,39,179,89,"GRA, Ilorin",133.130.5667,2024-04-09,6 Months,6,75000,POS,2024-10-06,2024-10-06,Grace,General
+1201,Cassie Zamora,Nigerian,Female,1970-02-25,55,163,80,"GRA, Ilorin",914.591.6104,2025-06-27,Individual (2 Months),2,33000,Transfer,2025-08-26,2025-08-19,Active,None
+1202,Troy Robinson,Lebanese,Male,2004-07-15,21,191,72,"GRA, Ilorin",001-826-664-2193x09420,2024-08-09,6 Months,6,75000,Transfer,2025-02-05,2025-02-19,Grace,None
+1203,Robert Mullins,Nigerian,Male,1990-04-01,35,163,86,"GRA, Ilorin",242-244-9034x54894,2024-11-29,1 Year,12,120000,POS,2025-11-24,2025-12-01,Active,General
+1204,Martin Singleton,Nigerian,Male,1969-12-06,56,172,117,"GRA, Ilorin",(652)953-9783x4801,2024-03-03,Individual (2 Months),2,33000,POS,2024-05-02,2024-05-09,Grace,General
+1205,Andrew Cuevas,Nigerian,Male,1995-01-07,30,182,107,"GRA, Ilorin",961-013-9341,2025-08-20,6 Months,6,75000,Transfer,2026-02-16,2026-02-23,Active,None
+1206,Wayne Ferguson,Nigerian,Male,1992-11-02,33,155,60,"GRA, Ilorin",001-772-342-5599x364,2025-02-11,1 Year,12,120000,Transfer,2026-02-06,2026-02-06,Active,General
+1207,Susan Henson,Nigerian,Female,1970-10-01,55,191,118,"GRA, Ilorin",5667789606,2024-06-20,Individual (2 Months),2,33000,Transfer,2024-08-19,2024-09-02,Grace,General
+1208,Lynn Miller,Nigerian,Female,2007-05-21,18,182,81,"GRA, Ilorin",(162)638-6004x7369,2024-12-29,Couple (1 Month),1,34000,POS,2025-01-28,2025-02-11,Grace,None
+1209,Tom White,Nigerian,Male,1981-03-22,44,182,81,"GRA, Ilorin",042-433-1342x0270,2024-04-10,Individual (2 Months),2,33000,POS,2024-06-09,2024-06-02,Grace,Personal
+1210,Edward Anderson,Chinese,Male,1994-07-01,31,171,64,"GRA, Ilorin",+1-454-627-4641x94958,2025-06-11,1 Year,12,120000,Transfer,2026-06-06,2026-05-30,Active,General
+1211,Jill Davis,Nigerian,Female,1982-01-11,43,187,67,"GRA, Ilorin",001-410-022-7810,2025-05-25,Individual (2 Months),2,33000,Transfer,2025-07-24,2025-08-07,Active,General
+1212,Jessica Scott,Nigerian,Female,1978-07-29,47,173,106,"GRA, Ilorin",+1-236-052-1386x1945,2024-05-06,6 Months,6,75000,Transfer,2024-11-02,2024-11-02,Grace,General
+1213,Andrea Lowery,Nigerian,Female,1967-12-02,58,154,83,"GRA, Ilorin",+1-228-625-0277x5763,2024-01-20,4 People (1 Month),1,58000,POS,2024-02-19,2024-02-26,Grace,General
+1214,Margaret Donaldson,Nigerian,Female,1990-04-15,35,151,81,"GRA, Ilorin",(932)688-9026x73814,2025-11-20,Individual (1 Month),1,18000,POS,2025-12-20,2026-01-03,Active,Personal
+1215,Christopher Wagner,Nigerian,Male,1967-12-22,58,185,80,"GRA, Ilorin",+1-658-599-4147x3394,2025-05-11,Individual (1 Month),1,18000,POS,2025-06-10,2025-06-03,Active,General
+1216,Brian Riley,Nigerian,Male,1988-10-29,37,160,92,"GRA, Ilorin",+1-471-486-8911x4622,2024-05-26,3 Months,3,45000,POS,2024-08-24,2024-08-17,Grace,General
+1217,David Gonzalez,Nigerian,Male,1979-12-06,46,175,100,"GRA, Ilorin",(847)873-6454x5905,2025-03-07,1 Year,12,120000,Transfer,2026-03-02,2026-03-09,Active,Personal
+1218,Lindsey Taylor,Nigerian,Female,1967-12-19,58,189,116,"GRA, Ilorin",214-701-8265x048,2024-01-15,Couple (1 Month),1,34000,Transfer,2024-02-14,2024-02-07,Grace,General
+1219,Jeremy White,Nigerian,Male,1980-08-17,45,189,114,"GRA, Ilorin",(664)325-4901,2025-06-18,4 People (1 Month),1,58000,Transfer,2025-07-18,2025-07-18,Active,General
+1220,James Smith,Nigerian,Male,2007-12-19,18,153,59,"GRA, Ilorin",(247)674-6938x83960,2024-10-30,3 Months,3,45000,POS,2025-01-28,2025-02-11,Grace,None
+1221,Taylor Graham,Nigerian,Female,1991-01-08,34,191,85,"GRA, Ilorin",1403982431,2024-11-06,Individual (1 Month),1,18000,Transfer,2024-12-06,2024-12-06,Grace,Personal
+1222,Mark Dixon,Nigerian,Male,2007-06-01,18,178,94,"GRA, Ilorin",539-546-0798,2025-02-18,6 Months,6,75000,POS,2025-08-17,2025-08-31,Active,None
+1223,Lisa Koch,Nigerian,Female,2004-02-28,21,150,100,"GRA, Ilorin",641-640-7276x2664,2024-05-25,Individual (1 Month),1,18000,Transfer,2024-06-24,2024-06-17,Expired,General
+1224,James James,Nigerian,Male,2002-11-19,23,185,108,"GRA, Ilorin",(799)463-3443x979,2024-08-29,Individual (2 Months),2,33000,POS,2024-10-28,2024-11-04,Grace,None
+1225,Kevin Cunningham,Nigerian,Male,1974-02-15,51,189,69,"GRA, Ilorin",7843131256,2025-06-28,Individual (1 Month),1,18000,POS,2025-07-28,2025-07-28,Active,General
+1226,David Walker,Lebanese,Male,1983-07-04,42,158,106,"GRA, Ilorin",(721)376-3555x319,2025-04-29,Individual (2 Months),2,33000,Transfer,2025-06-28,2025-07-05,Active,None
+1227,Roberto Mccoy,Nigerian,Male,1974-04-04,51,184,117,"GRA, Ilorin",5251369106,2024-01-02,3 Months,3,45000,Transfer,2024-04-01,2024-04-01,Grace,General
+1228,Connie Young,Nigerian,Female,1967-03-14,58,187,56,"GRA, Ilorin",(870)844-1807,2025-08-07,4 People (1 Month),1,58000,Transfer,2025-09-06,2025-09-06,Active,General
+1229,Joseph Pratt,Nigerian,Male,1966-12-27,59,176,71,"GRA, Ilorin",001-313-659-8965x3691,2025-08-15,Couple (1 Month),1,34000,POS,2025-09-14,2025-09-21,Active,General
+1230,Darren Burns,Nigerian,Male,1984-08-25,41,173,79,"GRA, Ilorin",+1-775-000-4227,2025-09-11,3 Months,3,45000,POS,2025-12-10,2025-12-24,Active,General
+1231,Johnny Mcclain,Nigerian,Male,1997-01-05,28,173,87,"GRA, Ilorin",(944)236-9413,2025-04-02,Individual (1 Month),1,18000,Transfer,2025-05-02,2025-05-09,Grace,General
+1232,Eric Miller,Nigerian,Male,1979-07-26,46,171,80,"GRA, Ilorin",6234254066,2024-04-06,Individual (1 Month),1,18000,Transfer,2024-05-06,2024-05-13,Expired,General
+1233,Andrew Peterson,Nigerian,Male,1966-05-15,59,156,103,"GRA, Ilorin",(475)524-9236,2024-04-01,4 People (1 Month),1,58000,Transfer,2024-05-01,2024-04-24,Grace,General
+1234,Julie Lane,Lebanese,Female,1970-10-04,55,189,103,"GRA, Ilorin",739.494.0315,2024-07-15,4 People (1 Month),1,58000,Transfer,2024-08-14,2024-08-14,Grace,General
+1235,Ryan Huffman,Nigerian,Male,2006-11-08,19,179,105,"GRA, Ilorin",885.481.6020x7812,2024-11-03,4 People (1 Month),1,58000,POS,2024-12-03,2024-11-26,Expired,General
+1236,Erica Jordan,Nigerian,Female,1980-02-20,45,181,84,"GRA, Ilorin",(171)370-8656,2025-02-01,Individual (1 Month),1,18000,POS,2025-03-03,2025-03-17,Grace,General
+1237,Henry Cain,Nigerian,Male,1997-10-12,28,179,70,"GRA, Ilorin",001-290-507-2349x913,2024-10-05,Individual (2 Months),2,33000,Transfer,2024-12-04,2024-11-27,Grace,General
+1238,Thomas Meyer,Nigerian,Male,1987-03-21,38,163,101,"GRA, Ilorin",583-041-9355x515,2024-04-10,Couple (1 Month),1,34000,POS,2024-05-10,2024-05-17,Grace,General
+1239,Matthew Martinez,Chinese,Male,1970-02-26,55,179,92,"GRA, Ilorin",597.621.8990,2025-02-20,Individual (1 Month),1,18000,POS,2025-03-22,2025-03-22,Grace,None
+1240,James Richards,Nigerian,Male,1976-08-21,49,157,83,"GRA, Ilorin",001-467-551-1262x749,2025-07-13,Couple (1 Month),1,34000,POS,2025-08-12,2025-08-05,Active,General
+1241,Sarah Powell,Nigerian,Female,2008-01-02,17,159,88,"GRA, Ilorin",522.020.4583x5717,2025-07-01,4 People (1 Month),1,58000,Transfer,2025-07-31,2025-08-07,Active,General
+1242,Ryan Salazar,Nigerian,Male,1982-09-12,43,177,86,"GRA, Ilorin",245.277.7835x69217,2025-09-01,6 Months,6,75000,Transfer,2026-02-28,2026-03-14,Active,Personal
+1243,Brandon Dodson,Nigerian,Male,2005-11-30,20,150,111,"GRA, Ilorin",7483723951,2025-07-22,1 Year,12,120000,POS,2026-07-17,2026-07-10,Active,General
+1244,Ian Porter,Nigerian,Male,2000-04-29,25,157,108,"GRA, Ilorin",207.398.6402,2024-08-20,6 Months,6,75000,POS,2025-02-16,2025-02-09,Expired,General
+1245,John Brown,Nigerian,Male,1988-09-17,37,182,62,"GRA, Ilorin",001-710-362-2086x70431,2024-02-24,4 People (1 Month),1,58000,POS,2024-03-25,2024-04-08,Grace,General
+1246,Jose Davis,Lebanese,Male,2000-07-11,25,163,86,"GRA, Ilorin",014.262.3370x47514,2025-02-13,Individual (1 Month),1,18000,POS,2025-03-15,2025-03-15,Grace,None
+1247,Taylor Schaefer,Nigerian,Female,1975-11-04,50,153,91,"GRA, Ilorin",+1-037-786-0822x29732,2025-01-10,Individual (1 Month),1,18000,Transfer,2025-02-09,2025-02-23,Grace,General
+1248,William Newman,Nigerian,Male,1970-09-26,55,167,61,"GRA, Ilorin",302-980-5968x47324,2025-03-05,Individual (2 Months),2,33000,POS,2025-05-04,2025-05-04,Expired,Personal
+1249,Amy Cervantes,Chinese,Female,1976-10-15,49,170,73,"GRA, Ilorin",+1-243-364-9893x848,2025-10-04,3 Months,3,45000,Transfer,2026-01-02,2026-01-09,Active,General
+1250,Anna Wolfe,Nigerian,Female,1991-10-06,34,178,114,"GRA, Ilorin",+1-140-544-4055x4922,2024-05-22,Individual (1 Month),1,18000,Transfer,2024-06-21,2024-06-21,Expired,Personal
+1251,Jessica Stewart,Nigerian,Female,1985-06-13,40,154,74,"GRA, Ilorin",3058227631,2024-08-18,Couple (1 Month),1,34000,Transfer,2024-09-17,2024-10-01,Expired,General
+1252,Cassandra Gomez,Nigerian,Female,2005-06-20,20,152,66,"GRA, Ilorin",001-000-952-2272x3327,2024-02-07,4 People (1 Month),1,58000,Transfer,2024-03-08,2024-03-08,Grace,None
+1253,Joseph Howard,Nigerian,Male,1970-02-25,55,179,63,"GRA, Ilorin",5143825878,2025-11-04,Individual (1 Month),1,18000,POS,2025-12-04,2025-12-11,Active,General
+1254,Michael Hill,Nigerian,Male,1999-07-28,26,171,78,"GRA, Ilorin",861-946-5095x835,2024-10-15,Individual (1 Month),1,18000,Transfer,2024-11-14,2024-11-21,Expired,General
+1255,Robert Allen,Nigerian,Male,1973-06-19,52,172,68,"GRA, Ilorin",506-372-8803,2025-09-11,Individual (2 Months),2,33000,POS,2025-11-10,2025-11-03,Active,Personal
+1256,Stuart Powell,Nigerian,Male,1975-11-26,50,174,76,"GRA, Ilorin",516-283-9587x6950,2025-03-08,6 Months,6,75000,Transfer,2025-09-04,2025-08-28,Active,None
+1257,Tricia Harris,Nigerian,Female,1997-04-09,28,178,91,"GRA, Ilorin",133.980.8798,2024-06-15,6 Months,6,75000,Transfer,2024-12-12,2024-12-05,Grace,General
+1258,Jessica Medina,Nigerian,Female,1980-04-14,45,170,96,"GRA, Ilorin",632-091-3491x9426,2024-04-22,Couple (1 Month),1,34000,POS,2024-05-22,2024-05-22,Grace,General
+1259,Harold Bradshaw,Nigerian,Male,1975-12-13,50,166,91,"GRA, Ilorin",7653244825,2025-05-30,Individual (2 Months),2,33000,Transfer,2025-07-29,2025-08-05,Active,Personal
+1260,Amber Sanford,Lebanese,Female,1995-03-24,30,172,81,"GRA, Ilorin",214-754-2342,2024-01-07,3 Months,3,45000,Transfer,2024-04-06,2024-04-20,Grace,None
+1261,Alexandria Matthews,Nigerian,Female,1996-12-19,29,189,66,"GRA, Ilorin",679.598.0605x667,2024-12-12,Individual (1 Month),1,18000,POS,2025-01-11,2025-01-25,Expired,Personal
+1262,Tyler Long,Nigerian,Male,1998-05-18,27,159,99,"GRA, Ilorin",4655224177,2024-08-01,1 Year,12,120000,POS,2025-07-27,2025-08-03,Active,None
+1263,Justin Flores,Nigerian,Male,1975-02-26,50,151,108,"GRA, Ilorin",786-635-3384x073,2024-06-04,3 Months,3,45000,POS,2024-09-02,2024-09-16,Grace,Personal
+1264,John Walters,Nigerian,Male,2002-05-07,23,185,80,"GRA, Ilorin",862-799-0885x34285,2024-09-26,Individual (1 Month),1,18000,POS,2024-10-26,2024-11-09,Expired,General
+1265,Susan Reilly,Nigerian,Female,2000-12-02,25,160,90,"GRA, Ilorin",+1-545-771-5680x28357,2025-07-19,4 People (1 Month),1,58000,POS,2025-08-18,2025-08-18,Active,Personal
+1266,Evan Jones,Chinese,Male,1997-10-12,28,184,108,"GRA, Ilorin",588-670-3612,2025-10-23,Individual (1 Month),1,18000,Transfer,2025-11-22,2025-12-06,Active,General
+1267,Gary Reyes,Nigerian,Male,1986-04-02,39,171,110,"GRA, Ilorin",747-546-3782x28099,2025-07-04,Individual (2 Months),2,33000,POS,2025-09-02,2025-09-16,Active,General
+1268,Steven Johnson MD,Nigerian,Male,2007-12-24,18,169,116,"GRA, Ilorin",+1-894-904-9530,2024-09-05,6 Months,6,75000,Transfer,2025-03-04,2025-03-18,Expired,None
+1269,Andrew Gray,Nigerian,Male,1994-02-27,31,158,80,"GRA, Ilorin",318-331-8045x2751,2024-10-02,Couple (1 Month),1,34000,Transfer,2024-11-01,2024-11-01,Grace,General
+1270,Andrew Bates,Chinese,Male,1990-03-10,35,189,71,"GRA, Ilorin",324-353-3452x94836,2025-03-27,Individual (2 Months),2,33000,Transfer,2025-05-26,2025-06-09,Active,General
+1271,Jennifer Schneider,Nigerian,Female,1981-11-30,44,189,96,"GRA, Ilorin",0660749756,2024-11-14,1 Year,12,120000,POS,2025-11-09,2025-11-23,Active,General
+1272,Gary Campbell,Nigerian,Male,1977-01-28,48,186,98,"GRA, Ilorin",401-934-2160,2024-08-19,Individual (1 Month),1,18000,POS,2024-09-18,2024-09-25,Expired,None
+1273,Robert Bryant,Nigerian,Male,1989-07-20,36,161,73,"GRA, Ilorin",283.093.1510x0381,2024-03-06,3 Months,3,45000,POS,2024-06-04,2024-06-18,Expired,General
+1274,Christina Dennis,Nigerian,Female,1991-06-06,34,166,111,"GRA, Ilorin",001-199-733-5720,2024-11-15,4 People (1 Month),1,58000,Transfer,2024-12-15,2024-12-29,Grace,General
+1275,Michael Short,Lebanese,Male,1986-05-19,39,165,62,"GRA, Ilorin",001-167-583-9814x2757,2024-03-15,1 Year,12,120000,POS,2025-03-10,2025-03-17,Expired,Personal
+1276,Valerie Ayers,Nigerian,Female,2004-07-03,21,186,79,"GRA, Ilorin",844-597-8894x0939,2025-10-02,Couple (1 Month),1,34000,Transfer,2025-11-01,2025-10-25,Active,None
+1277,Mr. Eric Dougherty Jr.,Nigerian,Male,2000-07-26,25,175,80,"GRA, Ilorin",001-321-898-7608,2025-10-18,1 Year,12,120000,Transfer,2026-10-13,2026-10-06,Active,General
+1278,Brooke Hogan,Nigerian,Female,1967-03-22,58,156,71,"GRA, Ilorin",+1-890-391-1215x859,2024-05-18,Individual (2 Months),2,33000,POS,2024-07-17,2024-07-17,Grace,General
+1279,Larry Moon,Nigerian,Male,1978-01-09,47,156,68,"GRA, Ilorin",739.769.2037,2024-08-21,Couple (1 Month),1,34000,Transfer,2024-09-20,2024-10-04,Grace,General
+1280,Jamie James,Nigerian,Female,1977-06-06,48,157,113,"GRA, Ilorin",+1-826-023-9000x16630,2024-11-27,1 Year,12,120000,Transfer,2025-11-22,2025-11-29,Active,None
+1281,Russell Small,Nigerian,Male,2000-12-18,25,179,93,"GRA, Ilorin",+1-314-680-3465x5743,2024-06-07,Individual (2 Months),2,33000,Transfer,2024-08-06,2024-08-20,Expired,General
+1282,Jonathan Ibarra,Lebanese,Male,1990-03-27,35,188,71,"GRA, Ilorin",001-987-763-3013x292,2025-09-04,Couple (1 Month),1,34000,Transfer,2025-10-04,2025-09-27,Active,Personal
+1283,Brandon Shaw,Nigerian,Male,1990-04-03,35,193,114,"GRA, Ilorin",5824555961,2024-07-08,Couple (1 Month),1,34000,Transfer,2024-08-07,2024-07-31,Expired,General
+1284,Angela Kim,Nigerian,Female,1970-02-05,55,192,94,"GRA, Ilorin",567-370-0980,2025-09-28,1 Year,12,120000,Transfer,2026-09-23,2026-10-07,Active,General
+1285,Wayne Hill,Nigerian,Male,2000-06-09,25,188,69,"GRA, Ilorin",043-339-7109,2025-10-26,1 Year,12,120000,Transfer,2026-10-21,2026-10-28,Active,None
+1286,Roger Houston Jr.,Nigerian,Male,1972-01-15,53,171,79,"GRA, Ilorin",(938)565-2065,2025-09-26,Individual (1 Month),1,18000,POS,2025-10-26,2025-10-19,Active,Personal
+1287,Curtis Powell,Nigerian,Male,2005-08-30,20,194,96,"GRA, Ilorin",0904410926,2025-02-17,Couple (1 Month),1,34000,POS,2025-03-19,2025-03-12,Expired,None
+1288,Andrew Mcknight,Nigerian,Male,1989-08-23,36,184,96,"GRA, Ilorin",001-549-720-9716,2025-08-24,1 Year,12,120000,Transfer,2026-08-19,2026-08-12,Active,None
+1289,James Kim,Nigerian,Male,1978-02-13,47,162,67,"GRA, Ilorin",001-613-903-4315x5682,2024-10-19,3 Months,3,45000,Transfer,2025-01-17,2025-01-17,Grace,General
+1290,Mary Anderson,Nigerian,Female,1974-08-24,51,188,100,"GRA, Ilorin",288-263-3891x398,2025-10-02,Individual (1 Month),1,18000,Transfer,2025-11-01,2025-11-08,Active,General
+1291,Lisa Haas,Nigerian,Female,1981-02-23,44,178,116,"GRA, Ilorin",250.849.6247,2024-01-17,Couple (1 Month),1,34000,Transfer,2024-02-16,2024-03-01,Grace,General
+1292,Nathan Anderson,Nigerian,Male,1983-01-16,42,193,64,"GRA, Ilorin",492.360.2904,2025-09-24,3 Months,3,45000,Transfer,2025-12-23,2025-12-30,Active,General
+1293,Cameron Chavez,Nigerian,Male,2006-07-29,19,169,59,"GRA, Ilorin",594-216-6699x047,2024-01-09,1 Year,12,120000,Transfer,2025-01-03,2025-01-10,Expired,Personal
+1294,Michael Mcgee,Nigerian,Male,1970-05-16,55,194,68,"GRA, Ilorin",(251)621-5071,2024-10-18,6 Months,6,75000,POS,2025-04-16,2025-04-23,Expired,General
+1295,Elizabeth Martinez,Nigerian,Female,1976-10-04,49,167,116,"GRA, Ilorin",106.785.0364,2024-12-10,Individual (2 Months),2,33000,Transfer,2025-02-08,2025-02-15,Expired,General
+1296,Frank Gallegos,Nigerian,Male,1992-10-13,33,164,69,"GRA, Ilorin",127-561-7327x207,2025-03-29,4 People (1 Month),1,58000,Transfer,2025-04-28,2025-05-05,Expired,General
+1297,Michael Roberts,Nigerian,Male,1992-01-16,33,161,113,"GRA, Ilorin",(749)118-1104x3763,2024-12-04,6 Months,6,75000,Transfer,2025-06-02,2025-06-16,Active,None
+1298,Theresa Luna,Nigerian,Female,1967-02-18,58,192,93,"GRA, Ilorin",2318264076,2024-09-20,Couple (1 Month),1,34000,Transfer,2024-10-20,2024-10-20,Expired,None
+1299,Gabriela Diaz,Nigerian,Female,1997-11-16,28,160,116,"GRA, Ilorin",040.583.7232,2024-03-26,4 People (1 Month),1,58000,Transfer,2024-04-25,2024-05-02,Grace,Personal
+1300,Alex Beck,Nigerian,Male,1998-09-20,27,153,113,"GRA, Ilorin",662.113.0764x70443,2025-04-13,3 Months,3,45000,POS,2025-07-12,2025-07-12,Active,General
+1301,Jody Jackson,Nigerian,Female,2003-12-26,22,194,111,"GRA, Ilorin",327-847-7058x05481,2024-11-16,Individual (1 Month),1,18000,Transfer,2024-12-16,2024-12-16,Expired,General
+1302,Dwayne Fernandez,Nigerian,Male,1991-07-21,34,152,60,"GRA, Ilorin",653-469-6067,2024-03-09,4 People (1 Month),1,58000,POS,2024-04-08,2024-04-22,Expired,None
+1303,Nathaniel Hardy,Chinese,Male,1975-09-25,50,172,103,"GRA, Ilorin",041.198.4719x2679,2025-04-13,6 Months,6,75000,POS,2025-10-10,2025-10-10,Active,General
+1304,Kevin Kelly,Nigerian,Male,1978-04-21,47,191,89,"GRA, Ilorin",289.443.5353x32527,2024-12-13,Individual (2 Months),2,33000,Transfer,2025-02-11,2025-02-25,Grace,None
+1305,Corey Ruiz,Nigerian,Male,1970-05-30,55,173,57,"GRA, Ilorin",2764594411,2025-10-24,1 Year,12,120000,Transfer,2026-10-19,2026-10-12,Active,None
+1306,Maxwell Nichols,Nigerian,Male,1970-10-02,55,174,68,"GRA, Ilorin",+1-910-721-4637x8939,2025-07-29,Couple (1 Month),1,34000,POS,2025-08-28,2025-08-28,Active,None
+1307,Kevin White,Nigerian,Male,2002-09-12,23,152,83,"GRA, Ilorin",888-596-9108x73523,2024-10-12,Individual (1 Month),1,18000,POS,2024-11-11,2024-11-11,Expired,None
+1308,Darlene King,Nigerian,Female,2005-10-13,20,161,96,"GRA, Ilorin",(033)905-9497x3066,2025-06-26,6 Months,6,75000,Transfer,2025-12-23,2025-12-23,Active,None
+1309,Brian Peterson,Nigerian,Male,1991-11-08,34,154,65,"GRA, Ilorin",740-001-7597x715,2024-11-14,Individual (2 Months),2,33000,POS,2025-01-13,2025-01-27,Grace,General
+1310,Eric King,Nigerian,Male,1986-02-03,39,164,92,"GRA, Ilorin",+1-508-372-4114x21304,2024-03-12,3 Months,3,45000,POS,2024-06-10,2024-06-03,Grace,General
+1311,Tina Jackson,Nigerian,Female,1986-07-14,39,175,72,"GRA, Ilorin",431.382.1701,2025-05-10,1 Year,12,120000,Transfer,2026-05-05,2026-05-12,Active,General
+1312,Phillip Cisneros,Nigerian,Male,1974-10-01,51,162,82,"GRA, Ilorin",(293)485-3804,2024-04-24,6 Months,6,75000,Transfer,2024-10-21,2024-10-14,Grace,General
+1313,Michelle Wilson,Nigerian,Female,1983-09-24,42,189,99,"GRA, Ilorin",457-389-0235x52068,2024-05-31,Individual (1 Month),1,18000,Transfer,2024-06-30,2024-06-30,Grace,General
+1314,Michael Byrd,Nigerian,Male,1969-11-28,56,152,110,"GRA, Ilorin",606-752-8178,2024-09-12,Couple (1 Month),1,34000,POS,2024-10-12,2024-10-26,Grace,Personal
+1315,Austin Moreno,Nigerian,Male,1996-02-11,29,162,87,"GRA, Ilorin",(051)341-7997,2024-08-17,Individual (1 Month),1,18000,Transfer,2024-09-16,2024-09-16,Expired,None
+1316,Nicole Rojas,Nigerian,Female,2007-03-20,18,189,113,"GRA, Ilorin",+1-824-708-5872,2024-07-07,Individual (1 Month),1,18000,POS,2024-08-06,2024-08-06,Grace,None
+1317,Heidi Russell,Nigerian,Female,1978-06-09,47,192,99,"GRA, Ilorin",001-451-252-5411x401,2024-02-02,1 Year,12,120000,Transfer,2025-01-27,2025-02-10,Expired,Personal
+1318,Jose Copeland,Lebanese,Male,1998-09-12,27,176,92,"GRA, Ilorin",+1-355-125-5316x9400,2025-10-21,4 People (1 Month),1,58000,Transfer,2025-11-20,2025-11-13,Active,General
+1319,Jessica Underwood,Nigerian,Female,1980-07-11,45,194,112,"GRA, Ilorin",194-005-0517x8416,2025-05-24,3 Months,3,45000,Transfer,2025-08-22,2025-09-05,Active,General
+1320,Meghan Tran,Nigerian,Female,1972-08-16,53,191,64,"GRA, Ilorin",(580)025-7658x619,2025-05-02,Individual (2 Months),2,33000,POS,2025-07-01,2025-07-08,Active,None
+1321,Mark Aguilar,Nigerian,Male,1999-01-20,26,188,85,"GRA, Ilorin",120.375.1558x698,2024-05-03,Individual (1 Month),1,18000,POS,2024-06-02,2024-06-09,Expired,General
+1322,Kyle Kelley,Chinese,Male,1973-08-11,52,162,66,"GRA, Ilorin",6750906857,2025-08-11,3 Months,3,45000,Transfer,2025-11-09,2025-11-09,Active,General
+1323,Cameron Wise,Nigerian,Male,1977-10-19,48,176,71,"GRA, Ilorin",001-514-135-0152x192,2025-03-29,Individual (2 Months),2,33000,POS,2025-05-28,2025-06-04,Active,General
+1324,Edward Nash,Nigerian,Male,1983-08-04,42,173,89,"GRA, Ilorin",264-592-6462x5326,2025-08-13,4 People (1 Month),1,58000,POS,2025-09-12,2025-09-12,Active,General
+1325,Timothy Alvarez,Nigerian,Male,1985-12-14,40,156,117,"GRA, Ilorin",001-358-862-0583x8542,2025-07-06,4 People (1 Month),1,58000,Transfer,2025-08-05,2025-08-19,Active,General
+1326,Aaron Nelson,Nigerian,Male,1980-10-07,45,186,76,"GRA, Ilorin",001-983-857-8193,2024-06-20,3 Months,3,45000,Transfer,2024-09-18,2024-10-02,Grace,None
+1327,Christopher Sheppard,Nigerian,Male,1985-06-10,40,153,118,"GRA, Ilorin",226-550-3570x240,2025-05-01,6 Months,6,75000,POS,2025-10-28,2025-11-04,Active,Personal
+1328,Jason Aguilar,Chinese,Male,1994-02-13,31,159,119,"GRA, Ilorin",261.435.3592,2024-08-26,Individual (1 Month),1,18000,POS,2024-09-25,2024-09-25,Expired,General
+1329,Joseph Rasmussen,Chinese,Male,1975-02-06,50,167,104,"GRA, Ilorin",+1-967-887-7380x059,2025-02-25,1 Year,12,120000,POS,2026-02-20,2026-02-20,Active,None
+1330,Dylan Thompson,Nigerian,Male,1996-06-09,29,161,90,"GRA, Ilorin",001-122-429-6018x17563,2024-11-03,6 Months,6,75000,Transfer,2025-05-02,2025-04-25,Grace,Personal
+1331,Eric Mitchell,Nigerian,Male,1972-07-27,53,161,61,"GRA, Ilorin",748-754-9615x64021,2024-12-13,6 Months,6,75000,POS,2025-06-11,2025-06-25,Active,General
+1332,Kristy Cooper,Nigerian,Female,1969-03-20,56,164,86,"GRA, Ilorin",(327)121-2875,2024-02-02,3 Months,3,45000,Transfer,2024-05-02,2024-05-02,Expired,None
+1333,Joshua Holden,Nigerian,Male,2001-07-08,24,175,100,"GRA, Ilorin",5269256946,2024-03-03,4 People (1 Month),1,58000,Transfer,2024-04-02,2024-04-02,Expired,General
+1334,Regina Johnson,Nigerian,Female,1971-03-01,54,184,67,"GRA, Ilorin",(585)333-3288x35695,2025-05-29,Couple (1 Month),1,34000,POS,2025-06-28,2025-06-21,Active,None
+1335,James Singleton,Nigerian,Male,1975-06-18,50,178,83,"GRA, Ilorin",+1-332-046-5064x737,2025-04-03,Individual (1 Month),1,18000,POS,2025-05-03,2025-04-26,Grace,General
+1336,Terri Lewis,Nigerian,Female,1979-12-30,46,163,76,"GRA, Ilorin",+1-679-100-7484x466,2024-11-13,Individual (2 Months),2,33000,Transfer,2025-01-12,2025-01-12,Grace,General
+1337,Ashley Garcia,Nigerian,Female,1992-09-12,33,193,110,"GRA, Ilorin",+1-661-348-9168x543,2024-03-29,3 Months,3,45000,Transfer,2024-06-27,2024-06-20,Grace,General
+1338,Karen Campbell,Nigerian,Female,2007-01-11,18,165,113,"GRA, Ilorin",+1-546-721-4182x6628,2024-12-18,Individual (1 Month),1,18000,Transfer,2025-01-17,2025-01-17,Expired,None
+1339,Nancy Robertson,Chinese,Female,1972-03-12,53,154,57,"GRA, Ilorin",618.612.2207x5675,2025-11-02,6 Months,6,75000,Transfer,2026-05-01,2026-05-08,Active,General
+1340,Jeffery Mcbride,Nigerian,Male,1981-08-04,44,187,69,"GRA, Ilorin",001-104-396-1866x88068,2025-09-23,3 Months,3,45000,Transfer,2025-12-22,2026-01-05,Active,Personal
+1341,James Moore,Nigerian,Male,1993-02-11,32,174,78,"GRA, Ilorin",+1-849-048-9328,2024-08-13,Individual (1 Month),1,18000,Transfer,2024-09-12,2024-09-05,Expired,General
+1342,Diane Wilson,Nigerian,Female,1994-03-28,31,165,81,"GRA, Ilorin",(133)955-3074,2025-01-05,Individual (2 Months),2,33000,Transfer,2025-03-06,2025-03-13,Grace,None
+1343,David Bradley,Nigerian,Male,1988-01-02,37,166,107,"GRA, Ilorin",(721)776-8467x045,2024-12-02,4 People (1 Month),1,58000,Transfer,2025-01-01,2025-01-01,Grace,General
+1344,Willie Dorsey,Nigerian,Male,1971-09-25,54,156,57,"GRA, Ilorin",822-868-5445x22639,2025-01-09,1 Year,12,120000,Transfer,2026-01-04,2026-01-18,Active,None
+1345,Michael Bridges,Nigerian,Male,2006-12-10,19,173,114,"GRA, Ilorin",+1-660-225-2675x89005,2024-04-13,Individual (2 Months),2,33000,Transfer,2024-06-12,2024-06-05,Grace,None
+1346,David Weaver,Nigerian,Male,1993-03-14,32,164,79,"GRA, Ilorin",9245515088,2024-10-10,Individual (1 Month),1,18000,POS,2024-11-09,2024-11-09,Grace,General
+1347,Richard Doyle,Nigerian,Male,1991-09-09,34,193,63,"GRA, Ilorin",9146611042,2024-09-10,Individual (1 Month),1,18000,Transfer,2024-10-10,2024-10-24,Expired,General
+1348,William Pierce,Nigerian,Male,1978-11-16,47,171,56,"GRA, Ilorin",001-473-989-5120x64000,2024-05-26,6 Months,6,75000,Transfer,2024-11-22,2024-11-15,Grace,None
+1349,Jacob Hill,Nigerian,Male,1999-04-28,26,162,75,"GRA, Ilorin",605-570-8225x26353,2024-10-15,Individual (1 Month),1,18000,Transfer,2024-11-14,2024-11-28,Grace,General
+1350,Nicholas Gomez,Nigerian,Male,2004-04-17,21,180,92,"GRA, Ilorin",(456)896-1162x597,2024-06-13,4 People (1 Month),1,58000,POS,2024-07-13,2024-07-20,Expired,General
+1351,Shane Taylor,Chinese,Male,1969-07-20,56,182,95,"GRA, Ilorin",+1-588-662-2916x231,2024-07-09,1 Year,12,120000,Transfer,2025-07-04,2025-07-11,Active,General
+1352,Roger Lopez,Nigerian,Male,1985-02-18,40,173,95,"GRA, Ilorin",660-360-2193x4552,2024-06-09,3 Months,3,45000,Transfer,2024-09-07,2024-09-14,Expired,General
+1353,Jasmine Castillo,Nigerian,Female,1991-12-12,34,181,108,"GRA, Ilorin",(444)190-3859,2024-09-30,3 Months,3,45000,Transfer,2024-12-29,2025-01-05,Expired,Personal
+1354,Jessica Peterson,Chinese,Female,2000-08-06,25,159,94,"GRA, Ilorin",280.480.4338x729,2024-10-12,4 People (1 Month),1,58000,POS,2024-11-11,2024-11-11,Expired,General
+1355,Matthew Leonard,Lebanese,Male,1986-01-13,39,151,87,"GRA, Ilorin",319.445.8623,2025-04-06,Individual (1 Month),1,18000,POS,2025-05-06,2025-04-29,Grace,None
+1356,Todd Blake,Nigerian,Male,1965-10-29,60,162,80,"GRA, Ilorin",845-005-0242x903,2025-07-28,Couple (1 Month),1,34000,Transfer,2025-08-27,2025-09-10,Active,General
+1357,Jeremiah Vaughan,Nigerian,Male,1997-08-28,28,188,100,"GRA, Ilorin",7473174445,2025-02-11,6 Months,6,75000,POS,2025-08-10,2025-08-03,Active,Personal
+1358,Kristine Ramos,Nigerian,Female,1981-08-30,44,191,98,"GRA, Ilorin",+1-905-315-0907,2025-10-17,Individual (1 Month),1,18000,POS,2025-11-16,2025-11-30,Active,General
+1359,Benjamin Clark,Nigerian,Male,1986-09-04,39,152,60,"GRA, Ilorin",(782)568-2415,2025-10-09,1 Year,12,120000,Transfer,2026-10-04,2026-10-18,Active,General
+1360,Alexander Taylor,Nigerian,Male,1975-12-22,50,180,86,"GRA, Ilorin",914.121.1044x10191,2024-04-28,3 Months,3,45000,Transfer,2024-07-27,2024-07-20,Grace,General
+1361,Michelle Bolton,Nigerian,Female,1988-12-15,37,157,104,"GRA, Ilorin",(801)323-0277x946,2024-02-15,3 Months,3,45000,Transfer,2024-05-15,2024-05-29,Expired,Personal
+1362,Madison Johnson,Nigerian,Female,1981-02-18,44,156,58,"GRA, Ilorin",001-111-500-7218x4923,2025-03-21,Individual (2 Months),2,33000,POS,2025-05-20,2025-05-13,Grace,General
+1363,April Ramirez,Nigerian,Female,2001-12-26,24,152,95,"GRA, Ilorin",+1-351-381-8365x139,2025-02-27,4 People (1 Month),1,58000,POS,2025-03-29,2025-03-29,Grace,General
+1364,Christopher Wise,Nigerian,Male,2005-08-05,20,167,66,"GRA, Ilorin",001-488-078-8875x007,2025-03-02,6 Months,6,75000,POS,2025-08-29,2025-09-12,Active,General
+1365,Harold Branch,Nigerian,Male,1992-03-12,33,194,73,"GRA, Ilorin",001-912-811-7598x8183,2024-12-25,Individual (2 Months),2,33000,Transfer,2025-02-23,2025-03-02,Expired,None
+1366,Victor Hunter,Lebanese,Male,1972-02-23,53,157,107,"GRA, Ilorin",969-633-6506x575,2025-07-02,4 People (1 Month),1,58000,Transfer,2025-08-01,2025-08-15,Active,Personal
+1367,William Young,Nigerian,Male,1983-03-27,42,167,72,"GRA, Ilorin",392-120-0518x63825,2025-07-25,Individual (2 Months),2,33000,Transfer,2025-09-23,2025-09-30,Active,Personal
+1368,Michael George,Nigerian,Male,1975-03-14,50,190,113,"GRA, Ilorin",+1-676-473-0389x478,2025-05-16,Couple (1 Month),1,34000,POS,2025-06-15,2025-06-08,Active,Personal
+1369,Daniel Oliver,Nigerian,Male,1975-02-28,50,184,115,"GRA, Ilorin",071-533-1658x08986,2024-11-12,Individual (2 Months),2,33000,Transfer,2025-01-11,2025-01-18,Grace,General
+1370,Dustin Dominguez,Lebanese,Male,1988-04-13,37,182,61,"GRA, Ilorin",368-389-4890x790,2024-06-12,Individual (1 Month),1,18000,POS,2024-07-12,2024-07-05,Grace,General
+1371,Tracy Walker,Nigerian,Female,2001-08-02,24,180,112,"GRA, Ilorin",9879937762,2024-01-11,1 Year,12,120000,Transfer,2025-01-05,2025-01-19,Expired,Personal
+1372,Carlos Johnson,Nigerian,Male,1983-07-09,42,153,74,"GRA, Ilorin",(253)293-4011,2025-08-14,Individual (2 Months),2,33000,Transfer,2025-10-13,2025-10-06,Active,General
+1373,Daniel Villegas,Nigerian,Male,2006-10-24,19,181,90,"GRA, Ilorin",9522060834,2025-05-11,Couple (1 Month),1,34000,Transfer,2025-06-10,2025-06-17,Active,General
+1374,Terry Boyle,Nigerian,Male,1983-03-28,42,185,88,"GRA, Ilorin",+1-961-339-8294,2025-02-24,Individual (2 Months),2,33000,POS,2025-04-25,2025-05-02,Grace,None
+1375,Mark Joseph,Nigerian,Male,1982-12-19,43,161,57,"GRA, Ilorin",001-827-045-3362x4879,2024-10-16,Couple (1 Month),1,34000,POS,2024-11-15,2024-11-08,Expired,Personal
+1376,Michael Poole,Nigerian,Male,1988-12-05,37,164,80,"GRA, Ilorin",018.086.2340,2025-05-01,1 Year,12,120000,Transfer,2026-04-26,2026-05-10,Active,Personal
+1377,Sheila Dawson,Nigerian,Female,1977-10-24,48,172,96,"GRA, Ilorin",001-421-180-5573x0631,2025-11-05,Couple (1 Month),1,34000,POS,2025-12-05,2025-12-19,Active,General
+1378,Regina Vazquez,Nigerian,Female,1966-04-13,59,186,92,"GRA, Ilorin",3991417152,2025-11-01,Couple (1 Month),1,34000,POS,2025-12-01,2025-12-01,Active,General
+1379,Andrew Santana,Nigerian,Male,2003-11-09,22,163,56,"GRA, Ilorin",+1-087-840-0540x027,2024-09-01,Individual (1 Month),1,18000,Transfer,2024-10-01,2024-10-15,Expired,General
+1380,Kevin Soto,Nigerian,Male,1984-12-25,41,174,82,"GRA, Ilorin",342-474-5761,2025-04-06,6 Months,6,75000,POS,2025-10-03,2025-10-10,Active,General

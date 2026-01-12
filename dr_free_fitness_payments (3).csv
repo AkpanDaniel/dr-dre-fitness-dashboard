@@ -1,0 +1,381 @@
+member_id,payment_date,amount,payment_method,plan,is_renewal
+1001,2025-08-16,34000,POS,Couple (1 Month),False
+1002,2025-03-07,45000,Transfer,3 Months,False
+1003,2024-03-18,34000,Transfer,Couple (1 Month),False
+1004,2024-08-15,120000,Transfer,1 Year,False
+1005,2024-05-08,75000,POS,6 Months,False
+1006,2024-11-25,34000,POS,Couple (1 Month),False
+1007,2025-07-27,45000,Transfer,3 Months,False
+1008,2024-06-03,34000,Transfer,Couple (1 Month),False
+1009,2025-03-22,75000,Transfer,6 Months,False
+1010,2024-05-28,18000,POS,Individual (1 Month),False
+1011,2025-04-08,45000,Transfer,3 Months,False
+1012,2025-09-12,33000,Transfer,Individual (2 Months),False
+1013,2024-12-08,33000,Transfer,Individual (2 Months),False
+1014,2024-07-16,34000,Transfer,Couple (1 Month),False
+1015,2025-02-18,58000,Transfer,4 People (1 Month),False
+1016,2025-02-18,18000,Transfer,Individual (1 Month),False
+1017,2024-04-13,75000,POS,6 Months,False
+1018,2024-08-26,45000,POS,3 Months,False
+1019,2024-09-13,75000,Transfer,6 Months,False
+1020,2025-01-12,34000,POS,Couple (1 Month),False
+1021,2024-06-26,120000,Transfer,1 Year,False
+1022,2024-07-07,18000,POS,Individual (1 Month),False
+1023,2025-01-01,34000,POS,Couple (1 Month),False
+1024,2025-11-18,18000,Transfer,Individual (1 Month),False
+1025,2024-08-07,75000,POS,6 Months,False
+1026,2024-02-11,18000,Transfer,Individual (1 Month),False
+1027,2025-10-08,33000,POS,Individual (2 Months),False
+1028,2025-11-27,120000,POS,1 Year,False
+1029,2024-01-30,75000,Transfer,6 Months,False
+1030,2024-11-20,33000,Transfer,Individual (2 Months),False
+1031,2024-01-04,34000,POS,Couple (1 Month),False
+1032,2025-08-21,45000,Transfer,3 Months,False
+1033,2024-06-02,75000,POS,6 Months,False
+1034,2025-06-08,45000,Transfer,3 Months,False
+1035,2025-05-20,58000,POS,4 People (1 Month),False
+1036,2025-05-11,33000,Transfer,Individual (2 Months),False
+1037,2025-10-03,58000,POS,4 People (1 Month),False
+1038,2025-11-02,33000,Transfer,Individual (2 Months),False
+1039,2024-03-23,18000,Transfer,Individual (1 Month),False
+1040,2024-12-04,75000,POS,6 Months,False
+1041,2025-01-09,120000,POS,1 Year,False
+1042,2024-06-24,58000,POS,4 People (1 Month),False
+1043,2024-04-20,18000,POS,Individual (1 Month),False
+1044,2025-11-25,18000,POS,Individual (1 Month),False
+1045,2024-12-12,34000,POS,Couple (1 Month),False
+1046,2025-01-08,34000,Transfer,Couple (1 Month),False
+1047,2024-01-16,120000,Transfer,1 Year,False
+1048,2025-09-07,120000,Transfer,1 Year,False
+1049,2024-08-20,120000,POS,1 Year,False
+1050,2025-10-20,120000,Transfer,1 Year,False
+1051,2024-07-18,58000,Transfer,4 People (1 Month),False
+1052,2024-05-12,45000,Transfer,3 Months,False
+1053,2025-10-13,34000,POS,Couple (1 Month),False
+1054,2025-02-23,58000,Transfer,4 People (1 Month),False
+1055,2024-06-01,34000,Transfer,Couple (1 Month),False
+1056,2025-01-31,18000,Transfer,Individual (1 Month),False
+1057,2024-07-28,34000,Transfer,Couple (1 Month),False
+1058,2025-07-22,75000,Transfer,6 Months,False
+1059,2025-06-23,75000,Transfer,6 Months,False
+1060,2025-06-27,58000,POS,4 People (1 Month),False
+1061,2025-01-08,120000,POS,1 Year,False
+1062,2024-02-20,58000,Transfer,4 People (1 Month),False
+1063,2024-10-10,75000,Transfer,6 Months,False
+1064,2024-04-27,58000,Transfer,4 People (1 Month),False
+1065,2024-07-01,120000,Transfer,1 Year,False
+1066,2024-05-27,45000,Transfer,3 Months,False
+1067,2024-01-28,45000,POS,3 Months,False
+1068,2024-12-05,33000,Transfer,Individual (2 Months),False
+1069,2024-09-26,33000,POS,Individual (2 Months),False
+1070,2024-09-24,120000,POS,1 Year,False
+1071,2025-10-11,120000,Transfer,1 Year,False
+1072,2024-01-30,33000,Transfer,Individual (2 Months),False
+1073,2024-09-14,18000,POS,Individual (1 Month),False
+1074,2024-11-13,34000,Transfer,Couple (1 Month),False
+1075,2024-08-04,75000,POS,6 Months,False
+1076,2025-07-23,120000,POS,1 Year,False
+1077,2025-08-14,33000,POS,Individual (2 Months),False
+1078,2025-10-20,75000,Transfer,6 Months,False
+1079,2024-03-12,120000,Transfer,1 Year,False
+1080,2024-04-19,18000,POS,Individual (1 Month),False
+1081,2025-01-16,45000,Transfer,3 Months,False
+1082,2025-07-26,120000,Transfer,1 Year,False
+1083,2025-09-23,33000,Transfer,Individual (2 Months),False
+1084,2024-09-11,75000,Transfer,6 Months,False
+1085,2025-09-18,120000,Transfer,1 Year,False
+1086,2025-10-25,120000,Transfer,1 Year,False
+1087,2025-01-28,34000,Transfer,Couple (1 Month),False
+1088,2025-11-22,33000,Transfer,Individual (2 Months),False
+1089,2025-01-20,120000,Transfer,1 Year,False
+1090,2025-09-06,33000,POS,Individual (2 Months),False
+1091,2024-03-10,33000,Transfer,Individual (2 Months),False
+1092,2025-10-29,45000,Transfer,3 Months,False
+1093,2025-11-08,75000,Transfer,6 Months,False
+1094,2024-07-26,45000,Transfer,3 Months,False
+1095,2025-07-14,58000,Transfer,4 People (1 Month),False
+1096,2024-01-01,75000,POS,6 Months,False
+1097,2025-07-26,58000,Transfer,4 People (1 Month),False
+1098,2024-08-24,58000,POS,4 People (1 Month),False
+1099,2024-09-18,75000,Transfer,6 Months,False
+1100,2024-01-20,58000,POS,4 People (1 Month),False
+1101,2025-08-22,75000,Transfer,6 Months,False
+1102,2025-06-26,58000,Transfer,4 People (1 Month),False
+1103,2024-07-14,45000,Transfer,3 Months,False
+1104,2024-12-24,45000,Transfer,3 Months,False
+1105,2024-08-14,33000,Transfer,Individual (2 Months),False
+1106,2024-08-19,18000,Transfer,Individual (1 Month),False
+1107,2025-05-12,45000,Transfer,3 Months,False
+1108,2024-01-29,120000,Transfer,1 Year,False
+1109,2024-03-31,34000,Transfer,Couple (1 Month),False
+1110,2024-09-25,34000,Transfer,Couple (1 Month),False
+1111,2025-03-27,45000,Transfer,3 Months,False
+1112,2024-06-29,33000,POS,Individual (2 Months),False
+1113,2025-07-18,18000,POS,Individual (1 Month),False
+1114,2025-01-22,45000,Transfer,3 Months,False
+1115,2024-11-12,75000,Transfer,6 Months,False
+1116,2024-10-14,18000,Transfer,Individual (1 Month),False
+1117,2024-07-14,34000,POS,Couple (1 Month),False
+1118,2025-07-24,34000,POS,Couple (1 Month),False
+1119,2024-03-07,75000,Transfer,6 Months,False
+1120,2025-05-17,120000,POS,1 Year,False
+1121,2024-01-04,33000,POS,Individual (2 Months),False
+1122,2024-07-31,33000,Transfer,Individual (2 Months),False
+1123,2024-02-01,75000,POS,6 Months,False
+1124,2024-02-15,120000,POS,1 Year,False
+1125,2025-03-19,33000,Transfer,Individual (2 Months),False
+1126,2025-09-14,58000,Transfer,4 People (1 Month),False
+1127,2024-10-24,58000,Transfer,4 People (1 Month),False
+1128,2025-04-26,33000,Transfer,Individual (2 Months),False
+1129,2025-09-17,75000,Transfer,6 Months,False
+1130,2024-01-10,58000,POS,4 People (1 Month),False
+1131,2025-08-10,33000,Transfer,Individual (2 Months),False
+1132,2025-07-29,45000,POS,3 Months,False
+1133,2024-06-25,45000,Transfer,3 Months,False
+1134,2025-05-12,33000,Transfer,Individual (2 Months),False
+1135,2024-05-01,75000,Transfer,6 Months,False
+1136,2024-11-24,120000,Transfer,1 Year,False
+1137,2025-01-07,33000,Transfer,Individual (2 Months),False
+1138,2025-07-24,58000,POS,4 People (1 Month),False
+1139,2024-01-22,33000,Transfer,Individual (2 Months),False
+1140,2025-07-01,45000,Transfer,3 Months,False
+1141,2025-03-21,58000,Transfer,4 People (1 Month),False
+1142,2024-09-21,45000,Transfer,3 Months,False
+1143,2024-09-19,45000,Transfer,3 Months,False
+1144,2024-11-13,33000,POS,Individual (2 Months),False
+1145,2024-09-18,34000,Transfer,Couple (1 Month),False
+1146,2025-05-04,75000,Transfer,6 Months,False
+1147,2024-05-05,45000,Transfer,3 Months,False
+1148,2024-09-01,45000,POS,3 Months,False
+1149,2025-05-09,58000,Transfer,4 People (1 Month),False
+1150,2024-11-16,18000,Transfer,Individual (1 Month),False
+1151,2025-11-29,34000,POS,Couple (1 Month),False
+1152,2024-05-30,120000,Transfer,1 Year,False
+1153,2025-06-29,33000,Transfer,Individual (2 Months),False
+1154,2025-08-04,18000,Transfer,Individual (1 Month),False
+1155,2024-04-18,18000,POS,Individual (1 Month),False
+1156,2025-07-07,33000,Transfer,Individual (2 Months),False
+1157,2024-08-11,45000,POS,3 Months,False
+1158,2024-09-20,34000,Transfer,Couple (1 Month),False
+1159,2025-04-02,120000,POS,1 Year,False
+1160,2025-02-08,58000,Transfer,4 People (1 Month),False
+1161,2024-11-30,45000,POS,3 Months,False
+1162,2024-09-01,34000,POS,Couple (1 Month),False
+1163,2025-11-29,120000,POS,1 Year,False
+1164,2025-04-03,58000,Transfer,4 People (1 Month),False
+1165,2024-10-09,34000,Transfer,Couple (1 Month),False
+1166,2024-01-04,58000,Transfer,4 People (1 Month),False
+1167,2025-06-29,45000,POS,3 Months,False
+1168,2024-02-15,18000,POS,Individual (1 Month),False
+1169,2025-11-26,58000,POS,4 People (1 Month),False
+1170,2025-06-20,75000,Transfer,6 Months,False
+1171,2025-08-24,45000,Transfer,3 Months,False
+1172,2025-07-26,33000,Transfer,Individual (2 Months),False
+1173,2025-06-23,34000,POS,Couple (1 Month),False
+1174,2025-02-01,58000,POS,4 People (1 Month),False
+1175,2024-07-05,18000,Transfer,Individual (1 Month),False
+1176,2024-10-11,75000,POS,6 Months,False
+1177,2024-06-15,33000,POS,Individual (2 Months),False
+1178,2025-06-23,45000,POS,3 Months,False
+1179,2024-09-04,45000,Transfer,3 Months,False
+1180,2024-04-27,45000,Transfer,3 Months,False
+1181,2025-09-04,45000,POS,3 Months,False
+1182,2024-08-25,58000,POS,4 People (1 Month),False
+1183,2024-11-26,18000,Transfer,Individual (1 Month),False
+1184,2025-03-22,45000,Transfer,3 Months,False
+1185,2025-07-17,45000,POS,3 Months,False
+1186,2024-03-12,75000,POS,6 Months,False
+1187,2025-01-17,45000,Transfer,3 Months,False
+1188,2024-05-30,33000,Transfer,Individual (2 Months),False
+1189,2025-11-05,45000,Transfer,3 Months,False
+1190,2025-10-19,58000,Transfer,4 People (1 Month),False
+1191,2024-05-22,18000,POS,Individual (1 Month),False
+1192,2025-09-11,34000,Transfer,Couple (1 Month),False
+1193,2025-07-22,58000,Transfer,4 People (1 Month),False
+1194,2024-05-15,120000,POS,1 Year,False
+1195,2024-03-16,18000,POS,Individual (1 Month),False
+1196,2025-07-09,18000,POS,Individual (1 Month),False
+1197,2025-01-17,120000,Transfer,1 Year,False
+1198,2024-12-19,34000,Transfer,Couple (1 Month),False
+1199,2024-09-10,75000,Transfer,6 Months,False
+1200,2024-04-09,75000,POS,6 Months,False
+1201,2025-06-27,33000,Transfer,Individual (2 Months),False
+1202,2024-08-09,75000,Transfer,6 Months,False
+1203,2024-11-29,120000,POS,1 Year,False
+1204,2024-03-03,33000,POS,Individual (2 Months),False
+1205,2025-08-20,75000,Transfer,6 Months,False
+1206,2025-02-11,120000,Transfer,1 Year,False
+1207,2024-06-20,33000,Transfer,Individual (2 Months),False
+1208,2024-12-29,34000,POS,Couple (1 Month),False
+1209,2024-04-10,33000,POS,Individual (2 Months),False
+1210,2025-06-11,120000,Transfer,1 Year,False
+1211,2025-05-25,33000,Transfer,Individual (2 Months),False
+1212,2024-05-06,75000,Transfer,6 Months,False
+1213,2024-01-20,58000,POS,4 People (1 Month),False
+1214,2025-11-20,18000,POS,Individual (1 Month),False
+1215,2025-05-11,18000,POS,Individual (1 Month),False
+1216,2024-05-26,45000,POS,3 Months,False
+1217,2025-03-07,120000,Transfer,1 Year,False
+1218,2024-01-15,34000,Transfer,Couple (1 Month),False
+1219,2025-06-18,58000,Transfer,4 People (1 Month),False
+1220,2024-10-30,45000,POS,3 Months,False
+1221,2024-11-06,18000,Transfer,Individual (1 Month),False
+1222,2025-02-18,75000,POS,6 Months,False
+1223,2024-05-25,18000,Transfer,Individual (1 Month),False
+1224,2024-08-29,33000,POS,Individual (2 Months),False
+1225,2025-06-28,18000,POS,Individual (1 Month),False
+1226,2025-04-29,33000,Transfer,Individual (2 Months),False
+1227,2024-01-02,45000,Transfer,3 Months,False
+1228,2025-08-07,58000,Transfer,4 People (1 Month),False
+1229,2025-08-15,34000,POS,Couple (1 Month),False
+1230,2025-09-11,45000,POS,3 Months,False
+1231,2025-04-02,18000,Transfer,Individual (1 Month),False
+1232,2024-04-06,18000,Transfer,Individual (1 Month),False
+1233,2024-04-01,58000,Transfer,4 People (1 Month),False
+1234,2024-07-15,58000,Transfer,4 People (1 Month),False
+1235,2024-11-03,58000,POS,4 People (1 Month),False
+1236,2025-02-01,18000,POS,Individual (1 Month),False
+1237,2024-10-05,33000,Transfer,Individual (2 Months),False
+1238,2024-04-10,34000,POS,Couple (1 Month),False
+1239,2025-02-20,18000,POS,Individual (1 Month),False
+1240,2025-07-13,34000,POS,Couple (1 Month),False
+1241,2025-07-01,58000,Transfer,4 People (1 Month),False
+1242,2025-09-01,75000,Transfer,6 Months,False
+1243,2025-07-22,120000,POS,1 Year,False
+1244,2024-08-20,75000,POS,6 Months,False
+1245,2024-02-24,58000,POS,4 People (1 Month),False
+1246,2025-02-13,18000,POS,Individual (1 Month),False
+1247,2025-01-10,18000,Transfer,Individual (1 Month),False
+1248,2025-03-05,33000,POS,Individual (2 Months),False
+1249,2025-10-04,45000,Transfer,3 Months,False
+1250,2024-05-22,18000,Transfer,Individual (1 Month),False
+1251,2024-08-18,34000,Transfer,Couple (1 Month),False
+1252,2024-02-07,58000,Transfer,4 People (1 Month),False
+1253,2025-11-04,18000,POS,Individual (1 Month),False
+1254,2024-10-15,18000,Transfer,Individual (1 Month),False
+1255,2025-09-11,33000,POS,Individual (2 Months),False
+1256,2025-03-08,75000,Transfer,6 Months,False
+1257,2024-06-15,75000,Transfer,6 Months,False
+1258,2024-04-22,34000,POS,Couple (1 Month),False
+1259,2025-05-30,33000,Transfer,Individual (2 Months),False
+1260,2024-01-07,45000,Transfer,3 Months,False
+1261,2024-12-12,18000,POS,Individual (1 Month),False
+1262,2024-08-01,120000,POS,1 Year,False
+1263,2024-06-04,45000,POS,3 Months,False
+1264,2024-09-26,18000,POS,Individual (1 Month),False
+1265,2025-07-19,58000,POS,4 People (1 Month),False
+1266,2025-10-23,18000,Transfer,Individual (1 Month),False
+1267,2025-07-04,33000,POS,Individual (2 Months),False
+1268,2024-09-05,75000,Transfer,6 Months,False
+1269,2024-10-02,34000,Transfer,Couple (1 Month),False
+1270,2025-03-27,33000,Transfer,Individual (2 Months),False
+1271,2024-11-14,120000,POS,1 Year,False
+1272,2024-08-19,18000,POS,Individual (1 Month),False
+1273,2024-03-06,45000,POS,3 Months,False
+1274,2024-11-15,58000,Transfer,4 People (1 Month),False
+1275,2024-03-15,120000,POS,1 Year,False
+1276,2025-10-02,34000,Transfer,Couple (1 Month),False
+1277,2025-10-18,120000,Transfer,1 Year,False
+1278,2024-05-18,33000,POS,Individual (2 Months),False
+1279,2024-08-21,34000,Transfer,Couple (1 Month),False
+1280,2024-11-27,120000,Transfer,1 Year,False
+1281,2024-06-07,33000,Transfer,Individual (2 Months),False
+1282,2025-09-04,34000,Transfer,Couple (1 Month),False
+1283,2024-07-08,34000,Transfer,Couple (1 Month),False
+1284,2025-09-28,120000,Transfer,1 Year,False
+1285,2025-10-26,120000,Transfer,1 Year,False
+1286,2025-09-26,18000,POS,Individual (1 Month),False
+1287,2025-02-17,34000,POS,Couple (1 Month),False
+1288,2025-08-24,120000,Transfer,1 Year,False
+1289,2024-10-19,45000,Transfer,3 Months,False
+1290,2025-10-02,18000,Transfer,Individual (1 Month),False
+1291,2024-01-17,34000,Transfer,Couple (1 Month),False
+1292,2025-09-24,45000,Transfer,3 Months,False
+1293,2024-01-09,120000,Transfer,1 Year,False
+1294,2024-10-18,75000,POS,6 Months,False
+1295,2024-12-10,33000,Transfer,Individual (2 Months),False
+1296,2025-03-29,58000,Transfer,4 People (1 Month),False
+1297,2024-12-04,75000,Transfer,6 Months,False
+1298,2024-09-20,34000,Transfer,Couple (1 Month),False
+1299,2024-03-26,58000,Transfer,4 People (1 Month),False
+1300,2025-04-13,45000,POS,3 Months,False
+1301,2024-11-16,18000,Transfer,Individual (1 Month),False
+1302,2024-03-09,58000,POS,4 People (1 Month),False
+1303,2025-04-13,75000,POS,6 Months,False
+1304,2024-12-13,33000,Transfer,Individual (2 Months),False
+1305,2025-10-24,120000,Transfer,1 Year,False
+1306,2025-07-29,34000,POS,Couple (1 Month),False
+1307,2024-10-12,18000,POS,Individual (1 Month),False
+1308,2025-06-26,75000,Transfer,6 Months,False
+1309,2024-11-14,33000,POS,Individual (2 Months),False
+1310,2024-03-12,45000,POS,3 Months,False
+1311,2025-05-10,120000,Transfer,1 Year,False
+1312,2024-04-24,75000,Transfer,6 Months,False
+1313,2024-05-31,18000,Transfer,Individual (1 Month),False
+1314,2024-09-12,34000,POS,Couple (1 Month),False
+1315,2024-08-17,18000,Transfer,Individual (1 Month),False
+1316,2024-07-07,18000,POS,Individual (1 Month),False
+1317,2024-02-02,120000,Transfer,1 Year,False
+1318,2025-10-21,58000,Transfer,4 People (1 Month),False
+1319,2025-05-24,45000,Transfer,3 Months,False
+1320,2025-05-02,33000,POS,Individual (2 Months),False
+1321,2024-05-03,18000,POS,Individual (1 Month),False
+1322,2025-08-11,45000,Transfer,3 Months,False
+1323,2025-03-29,33000,POS,Individual (2 Months),False
+1324,2025-08-13,58000,POS,4 People (1 Month),False
+1325,2025-07-06,58000,Transfer,4 People (1 Month),False
+1326,2024-06-20,45000,Transfer,3 Months,False
+1327,2025-05-01,75000,POS,6 Months,False
+1328,2024-08-26,18000,POS,Individual (1 Month),False
+1329,2025-02-25,120000,POS,1 Year,False
+1330,2024-11-03,75000,Transfer,6 Months,False
+1331,2024-12-13,75000,POS,6 Months,False
+1332,2024-02-02,45000,Transfer,3 Months,False
+1333,2024-03-03,58000,Transfer,4 People (1 Month),False
+1334,2025-05-29,34000,POS,Couple (1 Month),False
+1335,2025-04-03,18000,POS,Individual (1 Month),False
+1336,2024-11-13,33000,Transfer,Individual (2 Months),False
+1337,2024-03-29,45000,Transfer,3 Months,False
+1338,2024-12-18,18000,Transfer,Individual (1 Month),False
+1339,2025-11-02,75000,Transfer,6 Months,False
+1340,2025-09-23,45000,Transfer,3 Months,False
+1341,2024-08-13,18000,Transfer,Individual (1 Month),False
+1342,2025-01-05,33000,Transfer,Individual (2 Months),False
+1343,2024-12-02,58000,Transfer,4 People (1 Month),False
+1344,2025-01-09,120000,Transfer,1 Year,False
+1345,2024-04-13,33000,Transfer,Individual (2 Months),False
+1346,2024-10-10,18000,POS,Individual (1 Month),False
+1347,2024-09-10,18000,Transfer,Individual (1 Month),False
+1348,2024-05-26,75000,Transfer,6 Months,False
+1349,2024-10-15,18000,Transfer,Individual (1 Month),False
+1350,2024-06-13,58000,POS,4 People (1 Month),False
+1351,2024-07-09,120000,Transfer,1 Year,False
+1352,2024-06-09,45000,Transfer,3 Months,False
+1353,2024-09-30,45000,Transfer,3 Months,False
+1354,2024-10-12,58000,POS,4 People (1 Month),False
+1355,2025-04-06,18000,POS,Individual (1 Month),False
+1356,2025-07-28,34000,Transfer,Couple (1 Month),False
+1357,2025-02-11,75000,POS,6 Months,False
+1358,2025-10-17,18000,POS,Individual (1 Month),False
+1359,2025-10-09,120000,Transfer,1 Year,False
+1360,2024-04-28,45000,Transfer,3 Months,False
+1361,2024-02-15,45000,Transfer,3 Months,False
+1362,2025-03-21,33000,POS,Individual (2 Months),False
+1363,2025-02-27,58000,POS,4 People (1 Month),False
+1364,2025-03-02,75000,POS,6 Months,False
+1365,2024-12-25,33000,Transfer,Individual (2 Months),False
+1366,2025-07-02,58000,Transfer,4 People (1 Month),False
+1367,2025-07-25,33000,Transfer,Individual (2 Months),False
+1368,2025-05-16,34000,POS,Couple (1 Month),False
+1369,2024-11-12,33000,Transfer,Individual (2 Months),False
+1370,2024-06-12,18000,POS,Individual (1 Month),False
+1371,2024-01-11,120000,Transfer,1 Year,False
+1372,2025-08-14,33000,Transfer,Individual (2 Months),False
+1373,2025-05-11,34000,Transfer,Couple (1 Month),False
+1374,2025-02-24,33000,POS,Individual (2 Months),False
+1375,2024-10-16,34000,POS,Couple (1 Month),False
+1376,2025-05-01,120000,Transfer,1 Year,False
+1377,2025-11-05,34000,POS,Couple (1 Month),False
+1378,2025-11-01,34000,POS,Couple (1 Month),False
+1379,2024-09-01,18000,Transfer,Individual (1 Month),False
+1380,2025-04-06,75000,POS,6 Months,False
