@@ -2,8 +2,6 @@
 
 A modern, interactive web dashboard built with Python Dash that turns manual gym operations into powerful insights.
 
-## Live Demo
-(Add link later when deployed on Render/Heroku)
 
 ## Features
 - Real-time membership status overview
